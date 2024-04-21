@@ -1,0 +1,1247 @@
+,customer_id,spend,first_month,items_in_first_month,region,loyalty_years,joining_month,promotion
+0,1,132.68,15.3,5,Asia/Pacific,10-May,Nov,No
+1,2,106.45,16.2,14,Asia/Pacific,10-May,Feb,Yes
+2,3,123.16,25.26,7,Middle East/Africa,10-May,Dec,Yes
+3,4,130.6,24.74,8,Middle East/Africa,5-Mar,Apr,No
+4,5,130.41,25.59,8,Middle East/Africa,5-Mar,Apr,Yes
+5,6,127.46,21.45,7,Europe,5-Mar,May,Yes
+6,7,127.17,21.46,14,Middle East/Africa,5-Mar,May,NO
+7,8,125.5,19.11,7,Asia/Pacific,5-Mar,Jul,Yes
+8,9,106.8,16.01,14,Americas,5-Mar,Feb,Yes
+9,10,112.28,21.49,7,Europe,5-Mar,May,NO
+10,11,119.49,13.47,13,Asia/Pacific,5-Mar,Oct,No
+11,12,137.59,21.32,9,Asia/Pacific,10-May,Jan,YES
+12,13,119.9,21.36,7,Asia/Pacific,10-May,May,YES
+13,14,111.97,21.25,9,Americas,10-May,Jan,No
+14,15,130.12,24.38,9,Asia/Pacific,5-Mar,Apr,NO
+15,16,110.08,19.67,7,Europe,5-Mar,Jul,No
+16,17,132.67,15.79,5,Middle East/Africa,10-May,Nov,No
+17,18,109.79,19.37,7,Europe,10-May,Jul,Yes
+18,19,130.04,13.68,13,Europe,10-May,Oct,No
+19,20,126.32,15.63,14,Middle East/Africa,3-Jan,Feb,No
+20,21,131.87,15.94,6,Europe,10-May,Nov,No
+21,22,115.62,24.42,8,Asia/Pacific,10-May,Apr,Yes
+22,23,119.43,13.64,13,Middle East/Africa,5-Mar,Oct,No
+23,24,127.32,21.28,7,Middle East/Africa,5-Mar,May,No
+24,25,106.75,16.19,14,Middle East/Africa,5-Mar,May,Yes
+25,26,136.57,19.49,7,Middle East/Africa,10-May,Jul,Yes
+26,27,131.27,19.49,9,Middle East/Africa,3-Jan,Jan,No
+27,28,141.85,19.49,8,Asia/Pacific,10-May,Apr,No
+28,29,129.82,13.77,13,Europe,10-May,Oct,YES
+29,30,137.68,21.22,13,Americas,10-May,Sep,No
+30,31,111.87,21.12,9,Middle East/Africa,10-May,Jan,Yes
+31,32,111.94,21.11,9,Europe,10-May,Jan,Yes
+32,33,137.93,21.43,14,Europe,10-May,Jan,YES
+33,34,131.6,21.42,8,Europe,3-Jan,May,No
+34,35,122.14,15.63,14,Middle East/Africa,5-Mar,Feb,No
+35,36,106.57,15.76,14,Asia/Pacific,5-Mar,Feb,No
+36,37,107.86,16.86,5,Asia/Pacific,5-Mar,Mar,Yes
+37,38,109.83,19.33,8,Asia/Pacific,5-Mar,Jul,YES
+38,39,107.66,16.85,5,Asia/Pacific,5-Mar,Mar,Yes
+39,40,141.75,26.05,7,Asia/Pacific,10-May,Dec,Yes
+40,41,109.74,19.16,7,Asia/Pacific,10-May,Jul,No
+41,42,130.44,25.66,8,Middle East/Africa,5-Mar,Jul,No
+42,43,112.42,21.38,7,Asia/Pacific,5-Mar,May,No
+43,44,112.09,13.59,13,Americas,5-Mar,Oct,Yes
+44,45,127.18,21.55,7,Americas,5-Mar,Oct,NO
+45,46,127.13,21.55,5,Americas,3-Jan,Mar,No
+46,47,110.66,19.65,7,Asia/Pacific,3-Jan,Jul,No
+47,48,119.41,13.69,14,Europe,5-Mar,Oct,Yes
+48,49,137.54,21.07,9,Americas,10-May,Jan,No
+49,50,122.75,21.07,5,Middle East/Africa,5-Mar,Mar,Yes
+50,51,131.82,21.25,13,Europe,3-Jan,Sep,No
+51,52,136.49,19.64,7,Americas,10-May,Jul,Yes
+52,53,125.9,19.13,7,Americas,5-Mar,Jul,Yes
+53,54,142.01,24.95,8,Middle East/Africa,10-May,Apr,Yes
+54,55,127.31,21.34,7,Middle East/Africa,5-Mar,May,Yes
+55,56,131.64,21.38,7,Middle East/Africa,3-Jan,May,No
+56,57,131.52,21.29,7,Europe,3-Jan,May,YES
+57,58,122.7,16.69,5,Middle East/Africa,5-Mar,Mar,Yes
+58,59,111.29,19.89,8,Americas,5-Mar,Jul,NO
+59,60,130.42,20.47,12,Europe,3-Jan,Jun,NO
+60,61,122.75,16.89,5,Europe,5-Mar,Mar,No
+61,62,136.85,16.89,11,Asia/Pacific,10-May,Jun,NO
+62,63,106.36,15.9,6,Asia/Pacific,10-May,Nov,Yes
+63,64,123.42,24.53,7,Americas,10-May,Nov,Yes
+64,65,134.58,24.8,9,Middle East/Africa,3-Jan,Apr,No
+65,66,126.98,21.02,9,Asia/Pacific,5-Mar,Jan,No
+66,67,131.26,21.02,9,Americas,3-Jan,Jan,Yes
+67,68,137.64,21.3,14,Americas,10-May,Sep,YES
+68,69,106.63,15.85,14,Americas,10-May,Feb,Yes
+69,70,110.69,19.86,7,Middle East/Africa,10-May,Jul,No
+70,71,126.9,21.08,9,Europe,5-Mar,Jan,Yes
+71,72,107.11,16.09,14,Asia/Pacific,5-Mar,Feb,Yes
+72,73,127.26,16.09,14,Middle East/Africa,5-Mar,Feb,No
+73,74,135.48,20.6,7,Middle East/Africa,10-May,Jul,Yes
+74,75,126.52,17.69,9,Americas,3-Jan,Aug,Yes
+75,76,115.57,25.77,8,Middle East/Africa,3-Jan,Aug,YES
+76,77,123.05,24.43,8,Europe,3-Jan,Apr,Yes
+77,78,141.04,24.09,9,Asia/Pacific,10-May,Apr,NO
+78,79,135.96,19.38,7,Europe,10-May,Jul,Yes
+79,80,135.69,19.53,7,Europe,10-May,Jul,No
+80,81,131.69,21.34,7,Asia/Pacific,3-Jan,May,Yes
+81,82,119.36,13.49,13,Asia/Pacific,5-Mar,Oct,Yes
+82,83,121.71,16.07,14,Europe,5-Mar,Feb,No
+83,84,131.58,21.39,7,Europe,3-Jan,May,No
+84,85,125.86,17.45,5,Europe,3-Jan,Nov,Yes
+85,86,112.13,21.66,14,Middle East/Africa,3-Jan,Nov,No
+86,87,129.5,18.81,8,Asia/Pacific,3-Jan,Jul,No
+87,88,106.61,15.79,14,Europe,3-Jan,Feb,Yes
+88,89,115.11,24.87,9,Middle East/Africa,3-Jan,Apr,Yes
+89,90,112.02,21.35,9,Asia/Pacific,3-Jan,Jan,No
+90,91,106.28,15.81,14,Americas,3-Jan,Feb,No
+91,92,132.07,15.89,14,Americas,10-May,Feb,No
+92,93,130.0,13.55,13,Asia/Pacific,10-May,Oct,No
+93,94,127.32,21.57,14,Middle East/Africa,5-Mar,Sep,No
+94,95,125.72,19.61,7,Middle East/Africa,5-Mar,Jul,Yes
+95,96,112.35,21.41,7,Middle East/Africa,5-Mar,May,Yes
+96,97,136.72,20.09,11,Middle East/Africa,10-May,Jun,Yes
+97,98,136.31,19.13,7,Europe,10-May,Jul,YES
+98,99,130.77,25.01,8,Middle East/Africa,5-Mar,Apr,Yes
+99,100,119.73,21.4,14,Middle East/Africa,5-Mar,Sep,No
+100,101,134.94,24.65,8,Europe,3-Jan,Dec,No
+101,102,106.8,15.96,5,Asia/Pacific,3-Jan,Dec,No
+102,103,125.95,15.96,14,Middle East/Africa,3-Jan,Feb,No
+103,104,137.72,21.67,7,Middle East/Africa,10-May,May,No
+104,105,114.72,21.67,9,Middle East/Africa,10-May,May,No
+105,106,119.32,13.5,13,Europe,5-Mar,Oct,Yes
+106,107,119.95,21.46,7,Americas,5-Mar,May,YES
+107,108,131.68,21.33,7,Middle East/Africa,3-Jan,May,No
+108,109,114.22,15.8,14,Americas,3-Jan,Feb,YES
+109,110,110.23,19.91,8,Americas,3-Jan,Jul,No
+110,111,126.0,16.7,8,Americas,3-Jan,Aug,Yes
+111,112,126.98,21.47,14,Middle East/Africa,5-Mar,Sep,No
+112,113,112.24,21.18,9,Americas,5-Mar,Jan,No
+113,114,107.65,16.85,5,Americas,5-Mar,Mar,Yes
+114,115,132.63,16.17,9,Middle East/Africa,10-May,Aug,Yes
+115,116,131.55,21.63,7,Americas,3-Jan,May,Yes
+116,117,132.97,15.62,5,Middle East/Africa,10-May,Nov,Yes
+117,118,135.42,19.59,7,Asia/Pacific,10-May,Jul,Yes
+118,119,141.35,24.43,7,Americas,10-May,Jul,NO
+119,120,131.87,21.35,7,Europe,3-Jan,May,Yes
+120,121,123.28,24.55,7,Europe,3-Jan,Dec,Yes
+121,122,107.65,16.75,5,Asia/Pacific,3-Jan,Mar,No
+122,123,127.35,20.51,11,Europe,5-Mar,Jun,Yes
+123,124,126.82,16.03,10,Middle East/Africa,3-Jan,Aug,No
+124,125,104.44,13.53,14,Middle East/Africa,3-Jan,Oct,Yes
+125,126,110.08,19.13,7,Middle East/Africa,3-Jan,Jul,Yes
+126,127,112.27,20.96,9,Asia/Pacific,3-Jan,Jan,Yes
+127,128,136.83,20.96,11,Europe,10-May,Jun,Yes
+128,129,122.66,16.61,6,Americas,5-Mar,Mar,No
+129,130,131.59,16.61,7,Americas,3-Jan,May,Yes
+130,131,123.36,24.98,7,Americas,3-Jan,Dec,Yes
+131,132,122.8,24.72,8,Middle East/Africa,3-Jan,Apr,No
+132,133,112.23,21.56,7,Middle East/Africa,3-Jan,May,No
+133,134,111.86,21.56,9,Asia/Pacific,3-Jan,Jan,Yes
+134,135,137.55,21.24,14,Americas,10-May,Sep,Yes
+135,136,130.01,13.44,13,Europe,10-May,Oct,Yes
+136,137,134.81,24.72,7,Asia/Pacific,3-Jan,Dec,No
+137,138,112.16,13.5,14,Europe,3-Jan,Oct,No
+138,139,119.41,13.5,13,Europe,5-Mar,Oct,No
+139,140,112.19,20.9,9,Europe,5-Mar,Jan,Yes
+140,141,115.57,25.02,8,Europe,5-Mar,Apr,Yes
+141,142,136.73,25.02,11,Europe,10-May,Jun,No
+142,143,129.69,19.26,8,Middle East/Africa,3-Jan,Jul,Yes
+143,144,112.36,21.28,7,Americas,3-Jan,May,No
+144,145,130.44,24.46,8,Americas,5-Mar,Apr,No
+145,146,140.99,24.8,7,Europe,10-May,Dec,Yes
+146,147,119.45,21.33,9,Middle East/Africa,10-May,Jan,No
+147,148,112.04,21.11,9,Americas,10-May,Jan,No
+148,149,111.96,21.4,9,Europe,10-May,Jan,No
+149,150,129.91,13.5,13,Asia/Pacific,10-May,Oct,Yes
+150,151,131.64,20.96,9,Asia/Pacific,3-Jan,Jan,No
+151,152,106.77,15.55,14,Americas,3-Jan,Jan,Yes
+152,153,111.79,21.39,9,Europe,3-Jan,Jan,Yes
+153,154,131.76,15.47,6,Middle East/Africa,10-May,Nov,No
+154,155,127.16,16.87,5,Europe,3-Jan,Mar,Yes
+155,156,113.94,16.34,6,Americas,3-Jan,Nov,No
+156,157,126.23,20.62,11,Europe,5-Mar,Jun,No
+157,158,127.05,16.96,5,Americas,3-Jan,Mar,Yes
+158,159,130.78,16.96,8,Asia/Pacific,5-Mar,Dec,No
+159,160,104.49,13.47,13,Americas,5-Mar,Oct,Yes
+160,161,137.85,21.28,8,Middle East/Africa,10-May,May,No
+161,162,114.71,16.3,9,Europe,10-May,Aug,No
+162,163,107.56,16.3,5,Americas,10-May,Mar,Yes
+163,164,118.94,19.75,11,Americas,10-May,Jun,NO
+164,165,119.41,13.38,13,Asia/Pacific,5-Mar,Jun,Yes
+165,166,125.79,15.62,14,Asia/Pacific,3-Jan,Feb,No
+166,167,120.94,16.04,6,Middle East/Africa,5-Mar,Nov,Yes
+167,168,131.47,21.24,8,Asia/Pacific,3-Jan,Jan,No
+168,169,131.25,20.99,9,Americas,3-Jan,Jan,NO
+169,170,127.21,21.42,9,Middle East/Africa,5-Mar,Jan,Yes
+170,171,137.51,21.15,13,Europe,10-May,Sep,Yes
+171,172,130.52,24.84,7,Europe,5-Mar,Dec,No
+172,173,130.01,24.84,13,Middle East/Africa,10-May,Oct,Yes
+173,174,112.06,20.96,9,Middle East/Africa,10-May,Jan,No
+174,175,112.49,20.96,9,Europe,10-May,Jan,Yes
+175,176,112.19,21.51,7,Middle East/Africa,10-May,May,No
+176,177,113.86,15.89,5,Europe,10-May,Nov,No
+177,178,126.27,16.0,10,Americas,3-Jan,Aug,No
+178,179,120.02,16.0,14,Asia/Pacific,3-Jan,Sep,No
+179,180,116.35,24.75,8,Europe,3-Jan,Apr,No
+180,181,119.57,20.99,14,Americas,3-Jan,Apr,Yes
+181,182,135.47,19.39,8,Americas,10-May,Jul,No
+182,183,121.02,16.4,5,Americas,5-Mar,Jul,No
+183,184,112.01,16.4,9,Europe,5-Mar,Jan,Yes
+184,185,127.06,21.19,14,Middle East/Africa,5-Mar,Sep,Yes
+185,186,136.87,20.76,11,Middle East/Africa,10-May,Jun,No
+186,187,111.76,20.92,9,Americas,10-May,Jan,Yes
+187,188,113.98,15.48,6,Asia/Pacific,10-May,Nov,No
+188,189,127.07,16.9,5,Americas,3-Jan,Mar,No
+189,190,112.04,16.9,9,Middle East/Africa,3-Jan,Jan,Yes
+190,191,111.97,13.41,14,Americas,3-Jan,Oct,Yes
+191,192,121.47,15.77,14,Middle East/Africa,5-Mar,Feb,No
+192,193,130.15,20.45,13,Americas,3-Jan,Jun,Yes
+193,194,117.47,24.74,8,Europe,3-Jan,Apr,Yes
+194,195,112.05,21.01,9,Europe,3-Jan,Jan,Yes
+195,196,107.68,16.86,5,Asia/Pacific,3-Jan,Mar,No
+196,197,127.17,16.86,13,Europe,5-Mar,Sep,No
+197,198,123.7,13.44,13,Americas,3-Jan,Oct,No
+198,199,121.65,15.3,6,Middle East/Africa,5-Mar,Oct,YES
+199,200,112.01,21.06,9,Europe,5-Mar,Oct,Yes
+200,201,129.89,13.5,14,Americas,10-May,Oct,Yes
+201,202,132.88,16.17,9,Middle East/Africa,10-May,Aug,NO
+202,203,112.12,21.04,9,Americas,10-May,Jan,Yes
+203,204,106.8,15.72,14,Middle East/Africa,10-May,Jan,No
+204,205,110.84,20.55,11,Middle East/Africa,10-May,Jun,Yes
+205,206,136.62,20.17,7,Europe,10-May,Jul,Yes
+206,207,121.42,15.75,6,Europe,5-Mar,Nov,No
+207,208,121.33,15.75,6,Europe,5-Mar,Nov,No
+208,209,121.81,16.04,14,Asia/Pacific,5-Mar,Feb,NO
+209,210,127.03,21.27,9,Middle East/Africa,5-Mar,Jan,No
+210,211,131.62,21.46,13,Middle East/Africa,3-Jan,Sep,No
+211,212,132.33,15.83,14,Americas,10-May,Sep,Yes
+212,213,131.34,24.92,7,Asia/Pacific,5-Mar,Dec,YES
+213,214,132.56,15.38,14,Europe,10-May,Feb,No
+214,215,109.86,20.31,7,Middle East/Africa,10-May,Jul,Yes
+215,216,125.37,19.26,7,Middle East/Africa,5-Mar,Jul,No
+216,217,141.0,24.35,8,Americas,10-May,Apr,No
+217,218,130.84,24.49,7,Asia/Pacific,5-Mar,Dec,Yes
+218,219,127.01,24.49,5,Asia/Pacific,3-Jan,Mar,No
+219,220,126.86,21.33,9,Europe,5-Mar,Jan,Yes
+220,221,136.6,20.27,7,Americas,10-May,Jul,YES
+221,222,131.99,15.77,14,Europe,10-May,Feb,No
+222,223,115.15,24.84,8,Middle East/Africa,10-May,Apr,Yes
+223,224,111.91,21.06,9,Middle East/Africa,10-May,Jan,Yes
+224,225,137.92,21.31,7,Americas,10-May,May,No
+225,226,115.69,24.59,7,Europe,10-May,Dec,YES
+226,227,129.99,21.57,11,Europe,3-Jan,Jun,Yes
+227,228,111.92,13.45,13,Europe,3-Jan,Oct,Yes
+228,229,115.57,25.6,8,Asia/Pacific,3-Jan,Apr,No
+229,230,132.0,15.81,14,Asia/Pacific,10-May,Feb,Yes
+230,231,115.22,24.67,8,Middle East/Africa,10-May,Apr,YES
+231,232,129.89,13.56,13,Americas,10-May,Oct,Yes
+232,233,112.22,21.09,9,Middle East/Africa,10-May,Jan,Yes
+233,234,121.67,15.64,14,Europe,5-Mar,Feb,No
+234,235,114.7,15.89,9,Middle East/Africa,5-Mar,Aug,No
+235,236,114.21,15.84,6,Asia/Pacific,5-Mar,Nov,No
+236,237,121.79,16.38,6,Asia/Pacific,5-Mar,Nov,No
+237,238,119.86,21.34,13,Asia/Pacific,5-Mar,Sep,Yes
+238,239,137.72,21.43,7,Asia/Pacific,10-May,May,No
+239,240,136.37,25.05,7,Americas,3-Jan,May,YES
+240,241,131.66,21.29,7,Europe,3-Jan,May,Yes
+241,242,130.53,24.34,8,Asia/Pacific,5-Mar,May,Yes
+242,243,125.78,15.75,14,Middle East/Africa,3-Jan,Feb,Yes
+243,244,130.0,19.05,8,Americas,3-Jan,Jul,No
+244,245,119.52,13.82,13,Asia/Pacific,5-Mar,Oct,Yes
+245,246,132.65,16.66,9,Europe,10-May,Aug,Yes
+246,247,125.04,20.38,8,Europe,5-Mar,Jul,No
+247,248,110.54,19.63,7,Americas,5-Mar,Jul,Yes
+248,249,112.15,13.62,13,Americas,5-Mar,Oct,No
+249,250,112.28,19.84,12,Middle East/Africa,5-Mar,Jun,Yes
+250,251,126.89,16.8,5,Asia/Pacific,3-Jan,Mar,No
+251,252,140.91,16.8,7,Middle East/Africa,10-May,Dec,No
+252,253,125.73,16.02,6,Asia/Pacific,3-Jan,Nov,No
+253,254,131.18,16.02,9,Middle East/Africa,3-Jan,Nov,Yes
+254,255,111.94,13.66,13,Americas,3-Jan,Nov,Yes
+255,256,112.12,13.6,13,Asia/Pacific,3-Jan,Oct,NO
+256,257,111.75,20.27,12,Americas,3-Jan,Jun,No
+257,258,126.69,16.13,14,Americas,3-Jan,Feb,No
+258,259,112.26,21.16,13,Europe,3-Jan,Sep,No
+259,260,130.01,25.38,8,Europe,5-Mar,Sep,Yes
+260,261,126.8,16.7,5,Americas,3-Jan,Mar,Yes
+261,262,131.57,21.4,13,Asia/Pacific,3-Jan,Sep,No
+262,263,119.33,13.55,13,Asia/Pacific,5-Mar,Oct,Yes
+263,264,120.93,15.5,6,Americas,5-Mar,Nov,NO
+264,265,104.4,13.41,14,Europe,5-Mar,Oct,Yes
+265,266,121.86,16.9,9,Middle East/Africa,5-Mar,Aug,No
+266,267,109.75,18.95,7,Middle East/Africa,5-Mar,Jul,No
+267,268,107.54,16.77,5,Middle East/Africa,5-Mar,Mar,No
+268,269,127.01,16.87,5,Asia/Pacific,3-Jan,Mar,Yes
+269,270,140.86,24.87,7,Europe,10-May,Dec,No
+270,271,112.36,21.19,13,Middle East/Africa,10-May,Sep,No
+271,272,136.87,20.02,12,Middle East/Africa,10-May,Jun,Yes
+272,273,121.65,15.75,5,Asia/Pacific,5-Mar,Nov,Yes
+273,274,137.29,21.3,13,Middle East/Africa,10-May,Sep,No
+274,275,115.58,24.51,8,Middle East/Africa,10-May,Apr,YES
+275,276,136.01,19.25,7,Asia/Pacific,10-May,Jul,No
+276,277,115.88,24.5,8,Europe,10-May,Apr,No
+277,278,112.1,21.44,7,Americas,10-May,May,No
+278,279,104.31,13.37,13,Asia/Pacific,10-May,Oct,No
+279,280,137.78,21.52,13,Americas,10-May,Oct,Yes
+280,281,133.19,16.65,5,Asia/Pacific,10-May,Oct,Yes
+281,282,132.23,16.07,6,Europe,10-May,Nov,No
+282,283,106.56,15.91,14,Asia/Pacific,10-May,Feb,No
+283,284,121.76,16.48,9,Asia/Pacific,5-Mar,Aug,No
+284,285,128.12,16.23,9,Asia/Pacific,3-Jan,Aug,NO
+285,286,118.72,21.0,11,Americas,3-Jan,Jun,YES
+286,287,127.02,16.73,5,Asia/Pacific,3-Jan,Mar,No
+287,288,140.99,25.11,8,Middle East/Africa,10-May,Apr,NO
+288,289,121.94,16.71,9,Middle East/Africa,5-Mar,Aug,No
+289,290,129.86,13.57,13,Asia/Pacific,10-May,Aug,Yes
+290,291,124.73,13.57,7,Americas,5-Mar,Jul,No
+291,292,118.36,24.46,9,Europe,5-Mar,Apr,No
+292,293,129.78,13.74,13,Europe,10-May,Apr,No
+293,294,141.18,24.68,9,Middle East/Africa,10-May,Apr,No
+294,295,137.83,24.68,7,Americas,10-May,May,No
+295,296,104.41,13.53,13,Americas,10-May,Oct,Yes
+296,297,106.68,15.94,14,Europe,10-May,Feb,No
+297,298,136.08,19.79,7,Americas,10-May,Feb,No
+298,299,141.36,25.12,8,Europe,10-May,Dec,Yes
+299,300,111.56,20.39,11,Asia/Pacific,10-May,Jun,Yes
+300,301,129.46,19.29,7,Europe,3-Jan,Jul,Yes
+301,302,112.0,19.29,9,Middle East/Africa,3-Jan,Jan,NO
+302,303,107.8,16.78,5,Americas,3-Jan,Mar,NO
+303,304,141.81,24.85,7,Europe,10-May,Dec,No
+304,305,135.14,24.9,8,Asia/Pacific,3-Jan,Apr,No
+305,306,130.48,19.57,7,Europe,3-Jan,Jul,No
+306,307,137.85,21.29,9,Europe,10-May,Jan,Yes
+307,308,112.04,21.03,9,Asia/Pacific,10-May,Jan,No
+308,309,125.38,19.38,8,Middle East/Africa,5-Mar,Jul,Yes
+309,310,126.13,15.81,14,Asia/Pacific,3-Jan,Feb,Yes
+310,311,134.72,24.97,8,Americas,3-Jan,Apr,NO
+311,312,112.03,13.41,13,Americas,3-Jan,Oct,Yes
+312,313,136.13,13.41,7,Middle East/Africa,10-May,Jul,No
+313,314,123.37,24.63,8,Americas,10-May,Apr,No
+314,315,131.14,21.37,9,Americas,3-Jan,Jan,No
+315,316,129.81,19.75,7,Europe,3-Jan,Jul,NO
+316,317,131.2,19.75,9,Asia/Pacific,3-Jan,Jan,No
+317,318,106.82,16.05,14,Middle East/Africa,3-Jan,Feb,Yes
+318,319,119.54,13.45,13,Americas,5-Mar,Feb,No
+319,320,112.25,21.51,13,Europe,5-Mar,Sep,No
+320,321,124.26,24.36,8,Asia/Pacific,5-Mar,Apr,Yes
+321,322,132.93,16.01,7,Americas,10-May,Nov,Yes
+322,323,117.14,24.52,8,Middle East/Africa,10-May,Apr,No
+323,324,123.13,25.55,7,Middle East/Africa,10-May,Dec,No
+324,325,119.54,13.46,14,Middle East/Africa,5-Mar,Oct,No
+325,326,114.43,15.59,6,Europe,5-Mar,Nov,Yes
+326,327,111.99,21.26,9,Americas,5-Mar,Jan,No
+327,328,125.97,15.92,14,Americas,3-Jan,Feb,Yes
+328,329,141.34,25.74,7,Asia/Pacific,10-May,Dec,Yes
+329,330,111.79,21.35,9,Middle East/Africa,10-May,Jan,No
+330,331,127.35,21.6,7,Europe,5-Mar,May,Yes
+331,332,130.08,13.57,13,Middle East/Africa,10-May,Oct,Yes
+332,333,132.66,16.09,9,Americas,10-May,Aug,Yes
+333,334,132.27,17.38,9,Americas,10-May,Aug,No
+334,335,137.6,21.35,13,Middle East/Africa,10-May,Sep,No
+335,336,121.33,15.44,5,Asia/Pacific,5-Mar,Nov,Yes
+336,337,126.98,19.12,7,Europe,5-Mar,Jul,Yes
+337,338,132.19,15.34,6,Middle East/Africa,10-May,Nov,Yes
+338,339,111.31,20.58,12,Americas,10-May,Jun,No
+339,340,123.87,25.04,7,Middle East/Africa,10-May,Dec,No
+340,341,132.69,16.62,9,Asia/Pacific,10-May,Aug,No
+341,342,130.12,24.49,8,Asia/Pacific,5-Mar,Apr,No
+342,343,119.89,21.52,14,Middle East/Africa,5-Mar,Sep,No
+343,344,107.65,16.83,5,Middle East/Africa,5-Mar,Sep,Yes
+344,345,111.1,20.33,11,Europe,5-Mar,Jun,Yes
+345,346,122.66,16.9,5,Middle East/Africa,5-Mar,Mar,No
+346,347,122.6,16.79,5,Middle East/Africa,5-Mar,Mar,Yes
+347,348,114.3,15.15,5,Europe,5-Mar,Nov,Yes
+348,349,106.76,15.82,14,Americas,5-Mar,Feb,Yes
+349,350,107.63,16.79,5,Americas,5-Mar,Mar,No
+350,351,126.27,16.19,14,Europe,3-Jan,Feb,No
+351,352,132.98,18.09,8,Middle East/Africa,10-May,Aug,Yes
+352,353,127.04,21.33,14,Middle East/Africa,5-Mar,Aug,No
+353,354,112.0,21.33,9,Asia/Pacific,5-Mar,Jan,Yes
+354,355,112.09,13.62,14,Middle East/Africa,5-Mar,Oct,No
+355,356,135.33,24.34,8,Asia/Pacific,3-Jan,Apr,Yes
+356,357,137.66,21.31,13,Americas,10-May,Sep,Yes
+357,358,123.99,13.7,13,Middle East/Africa,3-Jan,Oct,YES
+358,359,117.61,19.05,8,Asia/Pacific,3-Jan,Jul,No
+359,360,130.35,24.62,7,Europe,5-Mar,Dec,No
+360,361,111.97,21.15,9,Europe,5-Mar,Jan,Yes
+361,362,131.1,21.38,9,Asia/Pacific,3-Jan,Jan,No
+362,363,111.96,13.59,14,Asia/Pacific,3-Jan,Oct,No
+363,364,133.69,15.78,6,Middle East/Africa,10-May,Oct,No
+364,365,112.0,15.78,9,Middle East/Africa,10-May,Jan,No
+365,366,121.05,14.95,6,Europe,5-Mar,Nov,NO
+366,367,120.09,21.39,7,Asia/Pacific,5-Mar,May,No
+367,368,129.86,13.65,14,Asia/Pacific,10-May,Oct,No
+368,369,116.19,24.5,8,Americas,10-May,Apr,NO
+369,370,115.51,25.5,8,Europe,10-May,Apr,Yes
+370,371,127.41,21.31,7,Americas,5-Mar,May,Yes
+371,372,137.79,21.46,7,Europe,10-May,May,No
+372,373,127.82,16.69,10,Asia/Pacific,3-Jan,Aug,Yes
+373,374,121.59,16.52,6,Asia/Pacific,5-Mar,Nov,No
+374,375,107.09,16.56,9,Middle East/Africa,5-Mar,Aug,Yes
+375,376,130.39,20.39,12,Europe,3-Jan,Jun,Yes
+376,377,131.35,20.9,9,Europe,3-Jan,Jan,YES
+377,378,137.91,21.27,14,Middle East/Africa,10-May,Sep,Yes
+378,379,130.13,21.27,14,Middle East/Africa,10-May,Oct,No
+379,380,131.71,21.27,7,Asia/Pacific,3-Jan,May,No
+380,381,125.04,19.52,8,Europe,5-Mar,Jul,No
+381,382,131.43,21.24,9,Americas,3-Jan,Jan,Yes
+382,383,131.67,21.35,14,Europe,3-Jan,Sep,No
+383,384,126.92,21.48,13,Europe,5-Mar,Sep,No
+384,385,127.03,16.86,5,Americas,3-Jan,Sep,Yes
+385,386,112.18,21.42,7,Middle East/Africa,3-Jan,May,YES
+386,387,111.98,21.42,9,Middle East/Africa,3-Jan,Jan,Yes
+387,388,126.97,16.94,5,Asia/Pacific,3-Jan,Mar,No
+388,389,115.95,16.94,8,Americas,3-Jan,Apr,No
+389,390,131.59,21.25,7,Americas,3-Jan,Apr,No
+390,391,121.46,15.35,6,Asia/Pacific,5-Mar,Nov,No
+391,392,111.94,21.22,9,Europe,5-Mar,Jan,NO
+392,393,112.07,21.5,7,Americas,5-Mar,May,Yes
+393,394,117.68,19.92,7,Asia/Pacific,5-Mar,Jul,Yes
+394,395,126.91,21.31,9,Middle East/Africa,5-Mar,Jan,Yes
+395,396,132.3,16.05,5,Europe,10-May,Nov,Yes
+396,397,110.8,19.13,7,Europe,10-May,Jul,No
+397,398,136.11,20.43,7,Europe,10-May,Jul,Yes
+398,399,133.17,16.88,5,Europe,10-May,Mar,No
+399,400,137.65,16.88,13,Americas,10-May,Mar,No
+400,401,119.32,16.88,13,Europe,5-Mar,Oct,No
+401,402,137.64,21.38,13,Middle East/Africa,10-May,Oct,No
+402,403,117.78,19.21,7,Americas,10-May,Jul,Yes
+403,404,124.78,20.05,7,Asia/Pacific,5-Mar,Jul,No
+404,405,130.47,20.45,11,Middle East/Africa,3-Jan,Jun,No
+405,406,137.86,21.31,13,Asia/Pacific,10-May,Sep,NO
+406,407,127.06,16.75,5,Asia/Pacific,3-Jan,Sep,No
+407,408,133.03,16.5,9,Middle East/Africa,10-May,Aug,Yes
+408,409,112.05,21.4,13,Asia/Pacific,10-May,Sep,No
+409,410,132.13,20.38,11,Americas,3-Jan,Jun,No
+410,411,112.29,21.23,14,Asia/Pacific,3-Jan,Sep,Yes
+411,412,130.57,20.5,12,Europe,3-Jan,Jun,Yes
+412,413,111.76,20.32,11,Asia/Pacific,3-Jan,Jun,No
+413,414,130.46,20.6,12,Middle East/Africa,3-Jan,Jun,Yes
+414,415,115.28,20.6,8,Americas,3-Jan,Apr,Yes
+415,416,116.3,26.2,8,Asia/Pacific,3-Jan,Apr,Yes
+416,417,114.58,16.26,6,Middle East/Africa,3-Jan,Nov,No
+417,418,109.86,19.91,7,Middle East/Africa,3-Jan,Jul,Yes
+418,419,126.9,16.71,5,Europe,3-Jan,Mar,Yes
+419,420,131.8,20.99,9,Europe,3-Jan,Jan,No
+420,421,129.91,13.52,13,Europe,10-May,Oct,Yes
+421,422,106.51,16.11,14,Europe,10-May,Feb,No
+422,423,121.49,16.47,8,Asia/Pacific,5-Mar,Aug,No
+423,424,125.45,16.47,8,Americas,5-Mar,Jul,No
+424,425,126.09,20.73,13,Americas,5-Mar,Jun,No
+425,426,135.47,19.35,7,Americas,10-May,Jul,Yes
+426,427,130.75,19.8,13,Europe,3-Jan,Jun,Yes
+427,428,107.8,16.85,5,Asia/Pacific,3-Jan,Mar,NO
+428,429,137.31,21.15,9,Middle East/Africa,10-May,Jan,No
+429,430,106.59,15.82,14,Americas,10-May,Feb,Yes
+430,431,112.05,21.35,9,Middle East/Africa,10-May,Jan,Yes
+431,432,121.98,16.23,6,Asia/Pacific,5-Mar,Jan,Yes
+432,433,130.18,13.43,13,Middle East/Africa,10-May,Oct,No
+433,434,123.66,13.44,13,Americas,3-Jan,Oct,Yes
+434,435,121.51,15.76,14,Asia/Pacific,5-Mar,Feb,Yes
+435,436,129.91,13.51,13,Middle East/Africa,10-May,Oct,Yes
+436,437,119.36,13.48,13,Americas,5-Mar,Oct,NO
+437,438,111.89,21.09,9,Americas,5-Mar,Jan,No
+438,439,132.13,15.62,14,Asia/Pacific,10-May,Feb,No
+439,440,123.36,15.99,8,Asia/Pacific,5-Mar,Aug,Yes
+440,441,122.01,16.13,8,Americas,5-Mar,Aug,Yes
+441,442,106.56,15.78,14,Middle East/Africa,5-Mar,Feb,No
+442,443,110.57,22.1,11,Asia/Pacific,5-Mar,Feb,Yes
+443,444,134.73,24.22,10,Middle East/Africa,3-Jan,Apr,No
+444,445,106.63,15.75,14,Europe,3-Jan,Feb,No
+445,446,127.1,16.61,5,Middle East/Africa,3-Jan,Mar,No
+446,447,123.68,13.57,13,Asia/Pacific,3-Jan,Oct,Yes
+447,448,131.69,13.57,7,Americas,3-Jan,Oct,No
+448,449,123.89,13.58,13,Asia/Pacific,3-Jan,Oct,YES
+449,450,133.14,16.71,5,Asia/Pacific,10-May,Oct,NO
+450,451,122.44,16.71,9,Asia/Pacific,5-Mar,Aug,No
+451,452,129.81,13.48,13,Asia/Pacific,10-May,Oct,Yes
+452,453,107.08,15.49,14,Europe,10-May,Feb,No
+453,454,125.16,19.41,8,Americas,5-Mar,Jul,No
+454,455,123.78,13.59,13,Asia/Pacific,3-Jan,Oct,No
+455,456,133.15,16.9,9,Americas,10-May,Aug,Yes
+456,457,112.07,21.3,14,Europe,10-May,Aug,NO
+457,458,126.81,21.17,9,Americas,5-Mar,Jan,No
+458,459,112.08,21.31,14,Europe,5-Mar,Sep,No
+459,460,126.68,15.95,14,Middle East/Africa,3-Jan,Feb,No
+460,461,131.74,21.18,14,Americas,3-Jan,Sep,No
+461,462,122.5,16.8,5,Europe,5-Mar,Mar,No
+462,463,129.73,19.59,8,Americas,3-Jan,Jul,Yes
+463,464,137.88,21.48,14,Asia/Pacific,10-May,Sep,No
+464,465,115.81,24.77,8,Middle East/Africa,10-May,Apr,Yes
+465,466,136.39,20.52,11,Europe,10-May,Jun,YES
+466,467,126.87,16.79,5,Europe,3-Jan,Mar,No
+467,468,123.29,25.78,8,Asia/Pacific,3-Jan,Dec,Yes
+468,469,106.57,25.78,14,Americas,3-Jan,Dec,Yes
+469,470,129.95,13.74,13,Europe,10-May,Oct,Yes
+470,471,107.69,16.78,5,Middle East/Africa,10-May,Oct,No
+471,472,119.97,21.38,14,Middle East/Africa,10-May,Sep,Yes
+472,473,123.84,13.54,13,Middle East/Africa,3-Jan,Oct,NO
+473,474,127.3,21.44,7,Middle East/Africa,5-Mar,May,No
+474,475,141.52,24.9,7,Middle East/Africa,10-May,May,Yes
+475,476,126.88,24.9,9,Middle East/Africa,5-Mar,Jan,Yes
+476,477,127.19,16.84,6,Americas,3-Jan,Mar,No
+477,478,111.89,21.33,9,Asia/Pacific,3-Jan,Jan,No
+478,479,121.56,21.33,6,Europe,5-Mar,Nov,YES
+479,480,111.54,20.6,11,Americas,5-Mar,Jun,Yes
+480,481,106.4,15.98,14,Europe,5-Mar,Feb,Yes
+481,482,112.09,15.98,9,Americas,5-Mar,Jan,Yes
+482,483,123.18,25.0,6,Americas,5-Mar,Dec,Yes
+483,484,112.17,21.08,9,Americas,5-Mar,Dec,Yes
+484,485,106.94,17.0,9,Asia/Pacific,5-Mar,Aug,No
+485,486,107.36,15.81,14,Middle East/Africa,5-Mar,Feb,Yes
+486,487,137.53,21.4,14,Asia/Pacific,10-May,Sep,Yes
+487,488,136.07,19.44,8,Europe,10-May,Jul,Yes
+488,489,109.77,19.05,7,Asia/Pacific,10-May,Jul,Yes
+489,490,129.93,13.88,13,Asia/Pacific,10-May,Oct,Yes
+490,491,131.6,21.28,7,Europe,3-Jan,May,Yes
+491,492,111.34,20.7,11,Asia/Pacific,3-Jan,Jun,Yes
+492,493,112.18,21.39,14,Americas,3-Jan,Sep,No
+493,494,135.09,19.99,7,Middle East/Africa,10-May,Jul,No
+494,495,107.92,16.58,5,Asia/Pacific,10-May,Mar,No
+495,496,131.88,21.4,7,Americas,3-Jan,May,Yes
+496,497,131.43,20.9,9,Americas,3-Jan,Jan,No
+497,498,132.57,16.2,9,Americas,10-May,Aug,Yes
+498,499,126.94,21.08,9,Asia/Pacific,5-Mar,Jan,Yes
+499,500,127.07,21.08,7,Middle East/Africa,5-Mar,May,No
+500,501,137.73,21.21,13,Middle East/Africa,10-May,May,No
+501,502,106.83,17.0,11,Asia/Pacific,10-May,Aug,Yes
+502,503,126.31,15.75,14,Europe,3-Jan,Feb,No
+503,504,121.23,16.05,7,Middle East/Africa,5-Mar,Nov,No
+504,505,110.97,20.5,12,Europe,5-Mar,Jun,YES
+505,506,126.02,15.63,14,Middle East/Africa,3-Jan,Feb,No
+506,507,112.14,21.25,9,Middle East/Africa,3-Jan,Jan,Yes
+507,508,125.68,19.21,7,Asia/Pacific,5-Mar,Jul,Yes
+508,509,112.25,21.27,13,Americas,5-Mar,Sep,No
+509,510,124.7,19.45,7,Middle East/Africa,5-Mar,Jul,Yes
+510,511,121.45,15.2,6,Americas,5-Mar,Nov,No
+511,512,120.93,16.4,6,Middle East/Africa,5-Mar,Nov,Yes
+512,513,121.44,15.06,6,Asia/Pacific,5-Mar,Nov,No
+513,514,115.8,25.14,8,Asia/Pacific,5-Mar,Apr,Yes
+514,515,106.95,15.57,14,Europe,5-Mar,Feb,No
+515,516,112.03,21.18,9,Americas,5-Mar,Jan,No
+516,517,126.13,20.84,11,Europe,5-Mar,Jun,No
+517,518,127.04,20.84,14,Europe,5-Mar,Sep,No
+518,519,137.1,20.93,11,Americas,10-May,Jun,No
+519,520,111.9,21.01,9,Europe,10-May,Jan,No
+520,521,131.64,21.01,13,Middle East/Africa,3-Jan,Sep,Yes
+521,522,112.1,21.28,9,Middle East/Africa,3-Jan,Jan,No
+522,523,131.63,21.52,7,Europe,3-Jan,May,No
+523,524,111.9,21.14,9,Asia/Pacific,3-Jan,Jan,No
+524,525,112.14,21.28,9,Europe,3-Jan,Jan,Yes
+525,526,141.69,24.81,8,Europe,10-May,Dec,Yes
+526,527,131.62,21.39,7,Americas,3-Jan,May,No
+527,528,115.8,25.57,8,Asia/Pacific,3-Jan,Apr,YES
+528,529,126.94,22.1,11,Middle East/Africa,5-Mar,Jun,YES
+529,530,106.91,15.89,14,Middle East/Africa,5-Mar,Feb,Yes
+530,531,115.28,25.4,8,Asia/Pacific,5-Mar,Feb,Yes
+531,532,127.16,21.63,7,Middle East/Africa,5-Mar,May,YES
+532,533,111.78,20.94,9,Americas,5-Mar,Jan,Yes
+533,534,125.83,20.28,7,Europe,5-Mar,Jul,Yes
+534,535,134.13,16.72,9,Europe,10-May,Aug,Yes
+535,536,114.44,15.2,6,Asia/Pacific,10-May,Nov,Yes
+536,537,130.05,19.39,7,Middle East/Africa,3-Jan,Jul,No
+537,538,125.37,15.95,6,Asia/Pacific,3-Jan,Nov,NO
+538,539,112.25,21.47,14,Middle East/Africa,3-Jan,Sep,No
+539,540,126.01,21.47,14,Europe,3-Jan,Feb,No
+540,541,118.75,20.41,11,Europe,3-Jan,Jun,No
+541,542,127.26,21.39,14,Europe,5-Mar,Sep,Yes
+542,543,132.28,16.31,14,Europe,10-May,Feb,Yes
+543,544,131.67,16.31,7,Middle East/Africa,3-Jan,May,No
+544,545,126.3,15.85,14,Middle East/Africa,3-Jan,Feb,Yes
+545,546,126.42,16.21,9,Americas,3-Jan,Feb,No
+546,547,111.81,20.94,9,Americas,3-Jan,Jan,Yes
+547,548,119.92,20.94,14,Europe,3-Jan,Sep,No
+548,549,112.07,20.94,9,Europe,3-Jan,Jan,NO
+549,550,136.32,20.13,12,Asia/Pacific,10-May,Jun,No
+550,551,137.9,21.63,14,Middle East/Africa,10-May,Sep,Yes
+551,552,125.98,22.39,11,Europe,5-Mar,Jun,Yes
+552,553,114.35,15.27,6,Americas,5-Mar,Jun,Yes
+553,554,112.5,15.27,7,Europe,5-Mar,May,Yes
+554,555,112.36,21.33,7,Americas,5-Mar,May,Yes
+555,556,130.02,13.53,13,Middle East/Africa,10-May,Oct,Yes
+556,557,106.59,15.91,14,Europe,10-May,Feb,NO
+557,558,133.38,16.2,8,Asia/Pacific,10-May,Aug,Yes
+558,559,123.39,24.64,7,Europe,10-May,Dec,No
+559,560,126.58,20.35,12,Europe,5-Mar,Jun,No
+560,561,122.08,16.54,9,Middle East/Africa,5-Mar,Aug,No
+561,562,134.57,16.54,8,Asia/Pacific,3-Jan,Apr,No
+562,563,106.63,15.29,6,Europe,3-Jan,Apr,No
+563,564,112.36,15.29,14,Americas,3-Jan,Sep,Yes
+564,565,127.01,21.33,13,Asia/Pacific,5-Mar,Sep,YES
+565,566,140.92,24.39,8,Asia/Pacific,10-May,Apr,No
+566,567,107.64,16.84,5,Middle East/Africa,10-May,Mar,No
+567,568,141.15,24.57,8,Americas,10-May,Apr,No
+568,569,107.12,15.94,10,Europe,10-May,Aug,Yes
+569,570,129.95,15.94,14,Europe,10-May,Aug,Yes
+570,571,134.83,24.8,8,Asia/Pacific,3-Jan,Apr,No
+571,572,131.68,16.08,5,Americas,10-May,Nov,No
+572,573,126.91,21.09,9,Middle East/Africa,5-Mar,Jan,Yes
+573,574,126.79,16.78,5,Americas,3-Jan,Mar,Yes
+574,575,126.92,20.88,9,Asia/Pacific,5-Mar,Jan,No
+575,576,107.02,15.61,14,Americas,5-Mar,Jan,YES
+576,577,127.22,21.21,13,Middle East/Africa,5-Mar,Sep,Yes
+577,578,123.84,13.56,13,Asia/Pacific,3-Jan,Oct,Yes
+578,579,106.65,15.99,14,Europe,3-Jan,Feb,No
+579,580,112.04,15.99,9,Americas,3-Jan,Jan,Yes
+580,581,140.75,24.36,8,Asia/Pacific,10-May,Apr,Yes
+581,582,111.88,13.41,13,Americas,10-May,Oct,No
+582,583,115.59,24.4,8,Middle East/Africa,10-May,Apr,No
+583,584,133.75,18.29,9,Asia/Pacific,10-May,Aug,No
+584,585,125.53,19.13,7,Europe,5-Mar,Jul,No
+585,586,127.22,19.13,13,Middle East/Africa,5-Mar,Sep,No
+586,587,110.31,19.5,8,Middle East/Africa,5-Mar,Jul,Yes
+587,588,134.42,26.14,8,Europe,3-Jan,Apr,Yes
+588,589,135.12,26.14,8,Americas,3-Jan,Apr,Yes
+589,590,107.83,16.74,5,Middle East/Africa,3-Jan,Mar,Yes
+590,591,115.7,24.77,8,Asia/Pacific,3-Jan,Apr,Yes
+591,592,131.54,21.29,7,Asia/Pacific,3-Jan,Apr,No
+592,593,130.99,19.2,7,Asia/Pacific,3-Jan,Jul,No
+593,594,115.26,24.4,8,Americas,3-Jan,Apr,No
+594,595,130.1,13.64,13,Americas,10-May,Oct,Yes
+595,596,121.54,15.61,5,Americas,5-Mar,Nov,No
+596,597,114.7,16.37,9,Americas,5-Mar,Aug,No
+597,598,136.51,21.73,7,Middle East/Africa,10-May,Jul,NO
+598,599,127.23,21.49,14,Asia/Pacific,5-Mar,Sep,Yes
+599,600,122.3,16.86,10,Americas,5-Mar,Aug,No
+600,601,137.61,21.29,7,Americas,10-May,May,No
+601,602,115.8,24.36,8,Europe,10-May,Apr,No
+602,603,106.7,15.57,14,Asia/Pacific,10-May,Apr,No
+603,604,122.6,16.86,5,Europe,5-Mar,Mar,Yes
+604,605,131.77,21.23,14,Europe,3-Jan,Sep,Yes
+605,606,122.74,17.01,5,Middle East/Africa,5-Mar,Mar,Yes
+606,607,107.77,16.71,5,Middle East/Africa,5-Mar,Mar,No
+607,608,129.95,13.6,13,Americas,10-May,Mar,No
+608,609,116.13,13.6,8,Americas,10-May,Apr,No
+609,610,137.86,13.6,7,Middle East/Africa,10-May,May,NO
+610,611,112.16,21.38,14,Europe,10-May,Sep,Yes
+611,612,123.87,13.54,13,Europe,3-Jan,Oct,No
+612,613,131.61,21.55,7,Europe,3-Jan,May,Yes
+613,614,126.7,15.71,14,Americas,3-Jan,Feb,NO
+614,615,141.25,25.28,8,Middle East/Africa,10-May,Apr,YES
+615,616,115.52,24.65,8,Americas,10-May,Apr,No
+616,617,111.85,21.14,9,Americas,10-May,Jan,Yes
+617,618,126.08,20.41,11,Asia/Pacific,5-Mar,Jun,Yes
+618,619,106.75,15.86,14,Middle East/Africa,5-Mar,Feb,No
+619,620,111.84,21.21,9,Americas,5-Mar,Jan,Yes
+620,621,127.03,21.12,9,Americas,5-Mar,Jan,No
+621,622,112.14,20.86,9,Americas,5-Mar,Jan,No
+622,623,111.97,21.09,9,Asia/Pacific,5-Mar,Jan,No
+623,624,123.12,24.55,8,Middle East/Africa,5-Mar,Apr,Yes
+624,625,110.76,19.52,7,Asia/Pacific,5-Mar,Jul,Yes
+625,626,122.61,16.77,5,Middle East/Africa,5-Mar,Mar,No
+626,627,118.51,20.09,11,Middle East/Africa,5-Mar,Jun,Yes
+627,628,106.96,16.1,9,Europe,5-Mar,Aug,Yes
+628,629,111.91,19.92,12,Americas,5-Mar,Jun,No
+629,630,141.02,24.41,8,Americas,10-May,Apr,No
+630,631,121.32,15.33,5,Europe,5-Mar,Nov,No
+631,632,110.7,19.95,11,Middle East/Africa,5-Mar,Jun,Yes
+632,633,132.56,15.89,14,Americas,10-May,Feb,Yes
+633,634,120.02,21.48,7,Americas,10-May,May,No
+634,635,111.96,21.06,9,Asia/Pacific,10-May,Jan,Yes
+635,636,133.19,16.77,5,Asia/Pacific,10-May,Jan,No
+636,637,107.57,16.58,5,Middle East/Africa,10-May,Jan,NO
+637,638,112.35,21.53,7,Europe,10-May,May,Yes
+638,639,107.3,16.13,9,Europe,10-May,Aug,No
+639,640,112.39,21.67,13,Americas,10-May,Sep,Yes
+640,641,115.13,16.38,5,Americas,10-May,Nov,No
+641,642,112.18,21.06,9,Americas,10-May,Jan,Yes
+642,643,131.56,21.18,13,Asia/Pacific,3-Jan,Sep,Yes
+643,644,137.77,20.35,11,Middle East/Africa,10-May,Jun,NO
+644,645,111.83,21.28,9,Europe,10-May,Jan,Yes
+645,646,112.0,21.06,13,Europe,10-May,Jan,NO
+646,647,126.16,15.5,5,Asia/Pacific,3-Jan,Nov,No
+647,648,127.06,21.5,13,Americas,5-Mar,Sep,No
+648,649,129.91,13.41,13,Americas,10-May,Sep,No
+649,650,126.19,17.15,9,Asia/Pacific,3-Jan,Sep,No
+650,651,122.13,17.74,9,Europe,5-Mar,Aug,No
+651,652,130.33,25.6,8,Americas,5-Mar,Apr,No
+652,653,131.72,21.6,8,Americas,3-Jan,May,No
+653,654,126.25,20.3,11,Asia/Pacific,5-Mar,Jun,No
+654,655,111.17,20.52,7,Americas,5-Mar,Jun,No
+655,656,116.66,24.61,8,Europe,5-Mar,Apr,No
+656,657,127.15,16.66,5,Americas,3-Jan,Mar,Yes
+657,658,107.76,16.86,5,Americas,3-Jan,Mar,Yes
+658,659,130.92,16.86,7,Europe,5-Mar,Dec,YES
+659,660,137.83,21.43,7,Europe,10-May,May,No
+660,661,126.3,15.73,14,Middle East/Africa,3-Jan,Feb,Yes
+661,662,131.54,21.36,7,Asia/Pacific,3-Jan,May,No
+662,663,127.57,21.52,7,Asia/Pacific,5-Mar,May,Yes
+663,664,112.3,21.6,7,Americas,5-Mar,May,No
+664,665,125.98,21.6,8,Asia/Pacific,5-Mar,Jul,No
+665,666,111.62,20.48,11,Middle East/Africa,5-Mar,Jun,No
+666,667,126.05,20.37,12,Middle East/Africa,5-Mar,Jun,Yes
+667,668,124.92,19.19,7,Asia/Pacific,5-Mar,Jul,Yes
+668,669,112.17,21.22,9,Asia/Pacific,5-Mar,Jan,Yes
+669,670,126.81,15.54,5,Europe,3-Jan,Nov,No
+670,671,130.09,13.72,14,Middle East/Africa,10-May,Oct,Yes
+671,672,131.71,21.38,7,Americas,3-Jan,May,No
+672,673,112.45,21.44,7,Europe,3-Jan,May,Yes
+673,674,123.85,13.72,13,Asia/Pacific,3-Jan,Oct,Yes
+674,675,119.97,13.72,7,Europe,3-Jan,May,No
+675,676,123.5,24.66,8,Asia/Pacific,3-Jan,Dec,Yes
+676,677,115.76,24.89,8,Americas,3-Jan,Apr,No
+677,678,106.89,15.69,14,Americas,3-Jan,Feb,Yes
+678,679,130.68,20.2,11,Asia/Pacific,3-Jan,Jun,Yes
+679,680,123.2,24.64,7,Europe,3-Jan,Dec,No
+680,681,132.18,15.52,6,Americas,10-May,Nov,No
+681,682,126.83,17.79,9,Asia/Pacific,3-Jan,Aug,Yes
+682,683,112.38,21.42,7,Asia/Pacific,3-Jan,May,Yes
+683,684,132.32,15.67,5,Americas,10-May,Nov,Yes
+684,685,114.4,15.76,6,Asia/Pacific,10-May,Nov,No
+685,686,111.73,21.2,8,Americas,10-May,Jan,Yes
+686,687,112.27,21.14,9,Americas,10-May,Jan,Yes
+687,688,141.33,25.74,8,Americas,10-May,Apr,YES
+688,689,119.38,13.65,13,Europe,5-Mar,Oct,Yes
+689,690,131.73,21.37,7,Americas,3-Jan,May,No
+690,691,112.03,20.98,9,Americas,3-Jan,Jan,Yes
+691,692,121.92,20.98,8,Americas,5-Mar,Aug,No
+692,693,107.64,16.72,5,Middle East/Africa,5-Mar,Mar,No
+693,694,137.63,21.44,14,Middle East/Africa,10-May,Mar,No
+694,695,107.66,21.44,5,Asia/Pacific,10-May,Mar,Yes
+695,696,131.07,21.33,9,Middle East/Africa,3-Jan,Jan,Yes
+696,697,110.86,20.49,12,Americas,3-Jan,Jun,YES
+697,698,129.89,13.51,13,Middle East/Africa,10-May,Oct,No
+698,699,135.32,25.9,8,Americas,3-Jan,Apr,No
+699,700,130.13,19.93,12,Asia/Pacific,3-Jan,Jun,No
+700,701,126.1,15.83,14,Europe,3-Jan,Feb,Yes
+701,702,131.57,15.83,7,Asia/Pacific,3-Jan,May,No
+702,703,112.18,21.18,13,Americas,3-Jan,Sep,NO
+703,704,112.22,21.02,9,Middle East/Africa,3-Jan,Jan,No
+704,705,123.28,16.47,9,Europe,5-Mar,Aug,No
+705,706,107.56,16.47,5,Americas,5-Mar,Aug,YES
+706,707,141.0,24.92,7,Middle East/Africa,10-May,Dec,No
+707,708,125.7,20.0,12,Asia/Pacific,5-Mar,Dec,NO
+708,709,123.71,24.83,7,Middle East/Africa,5-Mar,Dec,Yes
+709,710,131.62,24.83,14,Europe,3-Jan,Sep,Yes
+710,711,107.26,16.3,8,Americas,3-Jan,Aug,Yes
+711,712,114.82,16.9,9,Americas,3-Jan,Aug,No
+712,713,126.13,16.9,11,Asia/Pacific,5-Mar,Jun,Yes
+713,714,112.34,21.35,7,Europe,5-Mar,May,No
+714,715,112.6,21.09,9,Europe,5-Mar,Jan,No
+715,716,106.41,16.72,7,Europe,5-Mar,Nov,No
+716,717,135.36,19.18,7,Middle East/Africa,10-May,Jul,Yes
+717,718,112.1,21.32,14,Asia/Pacific,10-May,Sep,NO
+718,719,136.55,20.29,11,Europe,10-May,Jun,Yes
+719,720,119.16,13.71,13,Middle East/Africa,5-Mar,Oct,Yes
+720,721,126.24,16.68,9,Europe,3-Jan,Aug,Yes
+721,722,126.95,21.06,9,Europe,5-Mar,Jan,No
+722,723,137.57,21.33,14,Middle East/Africa,10-May,Sep,Yes
+723,724,132.68,16.88,9,Europe,10-May,Aug,No
+724,725,130.33,19.3,7,Asia/Pacific,3-Jan,Jul,YES
+725,726,131.77,15.58,6,Middle East/Africa,10-May,Nov,No
+726,727,112.35,21.21,14,Europe,10-May,Sep,No
+727,728,131.5,21.49,13,Asia/Pacific,3-Jan,Sep,No
+728,729,141.82,25.04,8,Asia/Pacific,10-May,Dec,No
+729,730,115.7,24.36,8,Asia/Pacific,10-May,Apr,No
+730,731,130.3,24.37,9,Americas,5-Mar,Apr,No
+731,732,130.25,24.7,8,Americas,5-Mar,Apr,Yes
+732,733,111.13,20.38,12,Asia/Pacific,5-Mar,Jun,Yes
+733,734,107.36,15.72,14,Middle East/Africa,5-Mar,Feb,No
+734,735,114.2,15.25,5,Asia/Pacific,5-Mar,Feb,No
+735,736,107.29,15.8,14,Europe,5-Mar,Feb,No
+736,737,137.81,21.61,7,Middle East/Africa,10-May,May,Yes
+737,738,127.03,21.4,9,Americas,5-Mar,Jan,Yes
+738,739,120.1,21.07,14,Europe,5-Mar,Sep,Yes
+739,740,116.24,25.18,7,Americas,5-Mar,Dec,Yes
+740,741,133.07,16.92,5,Europe,10-May,Mar,No
+741,742,129.89,13.56,13,Asia/Pacific,10-May,Oct,No
+742,743,125.0,19.06,7,Europe,5-Mar,Jul,No
+743,744,112.01,13.42,13,Middle East/Africa,5-Mar,Oct,Yes
+744,745,127.09,21.53,7,Americas,5-Mar,May,Yes
+745,746,107.57,16.89,5,Europe,5-Mar,Mar,Yes
+746,747,127.39,21.18,13,Europe,5-Mar,Sep,Yes
+747,748,119.41,13.69,14,Americas,5-Mar,Oct,Yes
+748,749,125.73,15.89,5,Europe,3-Jan,Nov,NO
+749,750,132.52,16.56,8,Asia/Pacific,10-May,Aug,Yes
+750,751,130.35,16.56,11,Middle East/Africa,3-Jan,Jun,No
+751,752,131.79,16.56,9,Middle East/Africa,3-Jan,Jan,Yes
+752,753,107.0,15.89,14,Americas,3-Jan,Feb,Yes
+753,754,111.69,21.03,9,Europe,3-Jan,Jan,No
+754,755,127.02,21.03,5,Europe,3-Jan,Mar,Yes
+755,756,137.2,21.91,11,Asia/Pacific,10-May,Jun,Yes
+756,757,130.23,20.05,12,Middle East/Africa,3-Jan,Jun,No
+757,758,141.15,24.79,7,Middle East/Africa,10-May,Dec,Yes
+758,759,104.32,13.51,13,Americas,10-May,Dec,No
+759,760,112.24,21.37,14,Europe,10-May,Sep,No
+760,761,129.12,18.93,8,Middle East/Africa,3-Jan,Jul,Yes
+761,762,126.46,15.84,14,Europe,3-Jan,Feb,YES
+762,763,137.62,21.39,14,Americas,10-May,Sep,No
+763,764,114.46,15.56,14,Middle East/Africa,10-May,Feb,No
+764,765,141.18,25.27,8,Europe,10-May,Feb,No
+765,766,126.46,15.67,14,Americas,3-Jan,Feb,Yes
+766,767,117.75,19.97,7,Middle East/Africa,3-Jan,Jul,NO
+767,768,127.03,16.95,5,Europe,3-Jan,Mar,Yes
+768,769,110.61,19.61,7,Middle East/Africa,3-Jan,Mar,Yes
+769,770,121.86,16.29,9,Americas,5-Mar,Aug,No
+770,771,110.5,19.11,7,Asia/Pacific,5-Mar,Jul,Yes
+771,772,126.87,16.82,5,Asia/Pacific,3-Jan,Mar,Yes
+772,773,134.7,25.29,8,Asia/Pacific,3-Jan,Apr,No
+773,774,131.67,21.49,7,Americas,3-Jan,May,No
+774,775,106.56,15.75,14,Middle East/Africa,3-Jan,Feb,No
+775,776,132.24,16.76,9,Americas,10-May,Aug,No
+776,777,111.92,16.76,9,Asia/Pacific,10-May,Jan,No
+777,778,107.59,16.84,5,Middle East/Africa,10-May,Mar,Yes
+778,779,129.36,20.08,7,Americas,3-Jan,Mar,No
+779,780,107.6,16.85,5,Asia/Pacific,3-Jan,Mar,Yes
+780,781,112.07,16.85,9,Asia/Pacific,3-Jan,Jan,No
+781,782,131.31,16.85,9,Asia/Pacific,3-Jan,Jan,Yes
+782,783,137.8,21.53,7,Europe,10-May,May,Yes
+783,784,106.82,15.87,14,Americas,10-May,Feb,Yes
+784,785,112.0,21.16,9,Europe,10-May,Jan,Yes
+785,786,123.85,13.52,13,Middle East/Africa,3-Jan,Jan,YES
+786,787,112.1,13.54,13,Asia/Pacific,3-Jan,Oct,No
+787,788,106.69,15.92,14,Americas,3-Jan,Feb,Yes
+788,789,111.81,21.1,9,Europe,3-Jan,Jan,No
+789,790,135.53,19.51,7,Middle East/Africa,10-May,Jul,No
+790,791,109.73,19.29,7,Americas,10-May,Jul,Yes
+791,792,121.13,15.59,5,Americas,5-Mar,Nov,No
+792,793,134.86,24.44,8,Americas,3-Jan,Apr,No
+793,794,119.45,13.62,13,Middle East/Africa,5-Mar,Oct,No
+794,795,121.83,15.38,6,Middle East/Africa,5-Mar,Oct,No
+795,796,140.81,24.36,8,Europe,10-May,Oct,No
+796,797,131.16,21.07,9,Middle East/Africa,3-Jan,Jan,Yes
+797,798,111.96,21.07,9,Asia/Pacific,3-Jan,Jan,NO
+798,799,116.11,24.38,8,Asia/Pacific,3-Jan,Apr,No
+799,800,127.23,21.51,7,Asia/Pacific,5-Mar,May,Yes
+800,801,111.94,21.38,9,Americas,5-Mar,May,Yes
+801,802,111.27,20.13,11,Middle East/Africa,5-Mar,Jun,No
+802,803,107.06,16.18,14,Americas,5-Mar,Feb,No
+803,804,111.86,20.97,9,Europe,5-Mar,Jan,No
+804,805,133.51,17.44,9,Europe,10-May,Aug,Yes
+805,806,121.58,15.92,14,Europe,5-Mar,Feb,No
+806,807,121.76,15.92,14,Middle East/Africa,5-Mar,Feb,Yes
+807,808,111.82,21.06,9,Middle East/Africa,5-Mar,Jan,Yes
+808,809,112.0,21.06,9,Europe,5-Mar,Jan,Yes
+809,810,135.96,20.93,8,Middle East/Africa,10-May,Jul,No
+810,811,140.92,24.42,7,Asia/Pacific,10-May,Dec,Yes
+811,812,121.45,15.94,14,Americas,5-Mar,Feb,Yes
+812,813,141.74,25.7,7,Asia/Pacific,10-May,Dec,Yes
+813,814,113.82,15.68,6,Americas,10-May,Nov,No
+814,815,138.07,15.68,7,Europe,10-May,Jul,No
+815,816,130.17,13.32,13,Asia/Pacific,10-May,Oct,No
+816,817,112.12,21.38,13,Americas,10-May,Sep,No
+817,818,129.91,13.67,13,Asia/Pacific,10-May,Oct,Yes
+818,819,112.31,21.48,7,Americas,10-May,May,Yes
+819,820,131.64,21.45,7,Middle East/Africa,3-Jan,May,Yes
+820,821,114.52,15.95,9,Europe,3-Jan,Aug,YES
+821,822,129.71,19.54,8,Europe,3-Jan,Jul,Yes
+822,823,132.77,16.49,9,Middle East/Africa,10-May,Aug,Yes
+823,824,111.94,21.24,9,Europe,10-May,Jan,No
+824,825,126.17,15.52,14,Middle East/Africa,3-Jan,Feb,Yes
+825,826,123.7,13.35,13,Americas,3-Jan,Oct,No
+826,827,129.28,19.06,7,Americas,3-Jan,Jul,No
+827,828,126.32,20.53,11,Middle East/Africa,5-Mar,Jun,YES
+828,829,125.19,19.12,8,Americas,5-Mar,Jul,Yes
+829,830,137.79,20.97,14,Middle East/Africa,10-May,Sep,Yes
+830,831,107.63,16.68,5,Americas,10-May,Mar,No
+831,832,106.71,16.46,14,Americas,10-May,Feb,Yes
+832,833,123.73,13.57,13,Asia/Pacific,3-Jan,Oct,Yes
+833,834,109.71,19.22,7,Americas,3-Jan,Jul,No
+834,835,114.86,20.93,8,Asia/Pacific,3-Jan,Aug,NO
+835,836,125.39,15.66,5,Americas,3-Jan,Nov,No
+836,837,125.37,19.26,7,Middle East/Africa,5-Mar,Nov,No
+837,838,122.8,17.73,8,Asia/Pacific,5-Mar,Aug,No
+838,839,119.44,13.58,13,Asia/Pacific,5-Mar,Oct,No
+839,840,141.09,25.56,7,Middle East/Africa,10-May,Oct,Yes
+840,841,111.92,21.3,9,Asia/Pacific,10-May,Jan,No
+841,842,127.34,21.16,8,Asia/Pacific,5-Mar,May,No
+842,843,119.37,13.57,13,Europe,5-Mar,Oct,No
+843,844,115.3,25.29,8,Europe,5-Mar,Apr,YES
+844,845,119.99,21.19,14,Europe,5-Mar,Sep,Yes
+845,846,135.68,21.19,7,Europe,10-May,Jul,Yes
+846,847,126.07,21.19,9,Asia/Pacific,3-Jan,Aug,Yes
+847,848,112.45,21.43,7,Americas,3-Jan,May,No
+848,849,125.61,15.5,14,Americas,3-Jan,Feb,Yes
+849,850,112.26,21.31,7,Middle East/Africa,3-Jan,May,Yes
+850,851,106.62,16.14,14,Middle East/Africa,3-Jan,Feb,Yes
+851,852,123.84,13.62,13,Asia/Pacific,3-Jan,Oct,Yes
+852,853,127.26,13.62,12,Middle East/Africa,5-Mar,Jun,Yes
+853,854,130.57,13.62,8,Americas,5-Mar,Apr,Yes
+854,855,126.9,16.71,5,Middle East/Africa,3-Jan,Mar,No
+855,856,114.1,16.71,5,Middle East/Africa,3-Jan,Nov,Yes
+856,857,122.83,16.82,5,Asia/Pacific,5-Mar,Nov,Yes
+857,858,111.96,21.38,9,Europe,5-Mar,Jan,Yes
+858,859,119.36,13.61,13,Middle East/Africa,5-Mar,Oct,No
+859,860,111.93,21.26,9,Europe,5-Mar,Jan,No
+860,861,131.51,21.09,9,Americas,3-Jan,Jan,No
+861,862,131.38,21.09,9,Middle East/Africa,3-Jan,Jan,No
+862,863,132.87,16.12,8,Europe,10-May,Aug,No
+863,864,112.28,21.24,7,Middle East/Africa,10-May,May,Yes
+864,865,111.89,21.07,9,Americas,10-May,Jan,No
+865,866,123.23,25.08,7,Middle East/Africa,10-May,Dec,Yes
+866,867,132.02,15.08,6,Americas,10-May,Nov,No
+867,868,127.23,16.69,5,Middle East/Africa,3-Jan,Mar,No
+868,869,136.24,24.74,8,Europe,3-Jan,Mar,No
+869,870,126.93,16.87,5,Middle East/Africa,3-Jan,Mar,No
+870,871,114.3,15.34,6,Europe,3-Jan,Nov,Yes
+871,872,136.16,19.14,8,Middle East/Africa,10-May,Jul,No
+872,873,111.22,20.27,12,Middle East/Africa,10-May,Jun,Yes
+873,874,115.45,16.83,5,Americas,10-May,Mar,YES
+874,875,141.11,24.84,8,Middle East/Africa,10-May,Dec,No
+875,876,117.5,19.85,7,Asia/Pacific,10-May,Jul,Yes
+876,877,119.82,21.13,13,Americas,10-May,Sep,No
+877,878,129.98,13.68,13,Europe,10-May,Oct,No
+878,879,110.69,19.77,12,Europe,10-May,Jun,YES
+879,880,126.87,16.88,5,Middle East/Africa,3-Jan,Mar,Yes
+880,881,121.62,16.88,5,Asia/Pacific,5-Mar,Nov,Yes
+881,882,134.54,25.85,8,Asia/Pacific,3-Jan,Apr,No
+882,883,130.2,25.85,7,Americas,3-Jan,Jul,No
+883,884,107.71,16.95,5,Middle East/Africa,3-Jan,Mar,Yes
+884,885,107.31,16.38,8,Middle East/Africa,3-Jan,Aug,NO
+885,886,126.68,21.05,11,Middle East/Africa,5-Mar,Jun,Yes
+886,887,137.72,21.5,7,Americas,10-May,Jun,NO
+887,888,119.29,20.13,11,Middle East/Africa,10-May,Jun,No
+888,889,112.26,21.14,9,Europe,10-May,Jan,No
+889,890,112.0,21.14,9,Middle East/Africa,10-May,Jan,No
+890,891,125.04,19.59,7,Americas,5-Mar,Jul,YES
+891,892,126.22,15.74,14,Europe,3-Jan,Feb,No
+892,893,112.3,21.53,7,Americas,3-Jan,May,Yes
+893,894,120.95,15.4,6,Asia/Pacific,5-Mar,Nov,NO
+894,895,131.54,21.96,11,Americas,3-Jan,Nov,Yes
+895,896,111.34,20.62,12,Europe,3-Jan,Jun,Yes
+896,897,135.73,19.5,7,Europe,10-May,Jul,No
+897,898,123.51,25.76,7,Middle East/Africa,10-May,Dec,Yes
+898,899,124.04,13.66,13,Americas,3-Jan,Oct,No
+899,900,129.6,19.26,7,Asia/Pacific,3-Jan,Jul,No
+900,901,125.81,15.62,14,Middle East/Africa,3-Jan,Jul,No
+901,902,115.41,16.92,5,Asia/Pacific,3-Jan,Mar,Yes
+902,903,112.01,21.07,9,Americas,3-Jan,Jan,No
+903,904,111.93,21.05,9,Europe,3-Jan,Jan,Yes
+904,905,119.65,21.05,14,Middle East/Africa,3-Jan,Sep,No
+905,906,125.42,19.45,7,Asia/Pacific,5-Mar,Jul,No
+906,907,124.93,19.83,7,Asia/Pacific,5-Mar,Jul,Yes
+907,908,126.87,21.14,13,Europe,5-Mar,Sep,No
+908,909,126.08,20.51,11,Middle East/Africa,5-Mar,Jun,Yes
+909,910,106.91,15.76,14,Middle East/Africa,5-Mar,Feb,No
+910,911,106.61,15.56,14,Europe,5-Mar,Feb,Yes
+911,912,131.83,15.29,6,Europe,10-May,Nov,Yes
+912,913,121.96,16.38,9,Europe,5-Mar,Nov,Yes
+913,914,106.53,16.02,15,Americas,5-Mar,Feb,No
+914,915,123.72,13.42,13,Asia/Pacific,3-Jan,Oct,No
+915,916,121.7,15.78,10,Middle East/Africa,5-Mar,Aug,No
+916,917,126.32,20.61,11,Americas,5-Mar,Jun,No
+917,918,106.3,15.99,5,Europe,5-Mar,Nov,Yes
+918,919,118.93,20.02,12,Asia/Pacific,5-Mar,Jun,No
+919,920,135.8,18.99,8,Americas,10-May,Jul,Yes
+920,921,126.27,15.92,14,Europe,3-Jan,Feb,Yes
+921,922,137.89,21.62,7,Asia/Pacific,10-May,May,Yes
+922,923,130.0,13.65,13,Europe,10-May,Oct,Yes
+923,924,112.16,21.56,13,Middle East/Africa,10-May,Sep,No
+924,925,122.57,21.56,5,Americas,5-Mar,Mar,Yes
+925,926,126.07,15.43,6,Europe,3-Jan,Nov,Yes
+926,927,114.95,15.78,9,Americas,3-Jan,Aug,Yes
+927,928,132.08,16.7,6,Americas,10-May,Nov,No
+928,929,131.62,21.38,14,Americas,3-Jan,Sep,Yes
+929,930,111.15,19.62,7,Middle East/Africa,3-Jan,Jul,Yes
+930,931,107.43,19.62,9,Middle East/Africa,3-Jan,Aug,Yes
+931,932,120.03,21.1,14,Middle East/Africa,3-Jan,Sep,Yes
+932,933,126.29,16.19,9,Asia/Pacific,3-Jan,Aug,No
+933,934,125.4,19.8,7,Americas,5-Mar,Jul,Yes
+934,935,131.28,25.37,7,Middle East/Africa,5-Mar,Dec,Yes
+935,936,104.29,13.53,13,Middle East/Africa,5-Mar,Oct,Yes
+936,937,112.25,13.42,13,Middle East/Africa,5-Mar,Oct,No
+937,938,129.82,19.49,8,Asia/Pacific,3-Jan,Jul,Yes
+938,939,110.82,19.84,11,Americas,3-Jan,Jun,Yes
+939,940,107.53,16.87,5,Americas,3-Jan,Jun,Yes
+940,941,107.16,17.06,8,Middle East/Africa,3-Jan,Aug,Yes
+941,942,136.07,19.2,7,Europe,10-May,Aug,Yes
+942,943,119.32,19.2,13,Middle East/Africa,5-Mar,Oct,No
+943,944,131.53,21.68,7,Europe,3-Jan,May,Yes
+944,945,111.99,21.68,9,Middle East/Africa,3-Jan,Jan,No
+945,946,119.42,13.61,13,Asia/Pacific,5-Mar,Oct,NO
+946,947,125.05,19.31,7,Asia/Pacific,5-Mar,Oct,No
+947,948,104.5,19.31,13,Europe,5-Mar,Oct,No
+948,949,126.38,20.13,11,Asia/Pacific,5-Mar,Jun,Yes
+949,950,129.96,13.59,13,Asia/Pacific,10-May,Oct,No
+950,951,113.95,15.69,6,Europe,10-May,Nov,Yes
+951,952,106.54,15.88,9,Middle East/Africa,10-May,Aug,No
+952,953,111.82,21.13,9,Asia/Pacific,10-May,Jan,Yes
+953,954,129.93,13.71,13,Middle East/Africa,10-May,Oct,Yes
+954,955,141.12,25.06,7,Europe,10-May,Dec,No
+955,956,112.12,21.33,14,Asia/Pacific,10-May,Sep,No
+956,957,137.47,24.24,8,Asia/Pacific,3-Jan,Apr,Yes
+957,958,112.15,21.27,9,Asia/Pacific,3-Jan,Jan,No
+958,959,111.88,20.99,9,Middle East/Africa,3-Jan,Jan,Yes
+959,960,136.79,21.04,11,Asia/Pacific,10-May,Jan,Yes
+960,961,133.26,16.75,5,Asia/Pacific,10-May,Mar,No
+961,962,123.86,13.66,14,Europe,3-Jan,Oct,No
+962,963,132.47,16.2,14,Americas,10-May,Feb,NO
+963,964,123.78,24.8,7,Europe,10-May,Dec,No
+964,965,131.52,21.35,13,Asia/Pacific,3-Jan,Dec,Yes
+965,966,133.14,16.71,5,Europe,10-May,Mar,No
+966,967,140.49,24.7,9,Americas,10-May,Apr,Yes
+967,968,122.2,24.7,14,Europe,5-Mar,Feb,Yes
+968,969,112.21,21.2,9,Europe,5-Mar,Jan,No
+969,970,106.91,15.8,14,Europe,5-Mar,Feb,No
+970,971,141.26,24.86,9,Americas,10-May,Apr,No
+971,972,119.42,13.65,13,Americas,5-Mar,Oct,No
+972,973,141.92,24.45,8,Asia/Pacific,10-May,Apr,NO
+973,974,114.69,15.79,6,Americas,10-May,Nov,No
+974,975,142.29,24.77,7,Europe,10-May,Nov,Yes
+975,976,121.82,24.77,8,Asia/Pacific,5-Mar,Aug,No
+976,977,124.71,19.83,7,Europe,5-Mar,Aug,YES
+977,978,106.91,16.04,14,Asia/Pacific,5-Mar,Feb,No
+978,979,133.02,16.79,5,Europe,10-May,Mar,Yes
+979,980,127.4,21.38,13,Middle East/Africa,5-Mar,Sep,YES
+980,981,127.26,21.36,7,Middle East/Africa,5-Mar,May,No
+981,982,121.54,16.55,9,Middle East/Africa,5-Mar,Aug,Yes
+982,983,130.55,25.04,8,Middle East/Africa,5-Mar,Apr,No
+983,984,121.5,15.5,6,Asia/Pacific,5-Mar,Nov,Yes
+984,985,123.77,13.83,13,Americas,3-Jan,Oct,Yes
+985,986,125.84,15.88,14,Americas,3-Jan,Feb,Yes
+986,987,132.16,15.29,6,Middle East/Africa,10-May,Nov,Yes
+987,988,111.78,20.86,9,Americas,10-May,Jan,Yes
+988,989,131.65,21.39,7,Middle East/Africa,3-Jan,May,Yes
+989,990,119.82,21.56,14,Asia/Pacific,3-Jan,Sep,No
+990,991,107.55,21.56,5,Americas,3-Jan,Mar,Yes
+991,992,131.64,21.46,7,Americas,3-Jan,May,No
+992,993,107.89,16.78,5,Middle East/Africa,3-Jan,Mar,No
+993,994,110.5,19.89,7,Americas,3-Jan,Jul,No
+994,995,107.02,15.73,14,Middle East/Africa,3-Jan,Feb,Yes
+995,996,112.21,13.42,13,Asia/Pacific,3-Jan,Oct,No
+996,997,126.82,13.42,9,Americas,5-Mar,Jan,Yes
+997,998,126.22,16.08,9,Middle East/Africa,3-Jan,Aug,No
+998,999,129.89,13.64,13,Americas,10-May,Oct,No
+999,1000,132.38,16.65,9,Europe,10-May,Aug,No
+1000,1001,130.47,20.75,11,Americas,3-Jan,Aug,Yes
+1001,1002,106.88,16.02,14,Europe,3-Jan,Aug,No
+1002,1003,131.28,21.18,9,Asia/Pacific,3-Jan,Jan,No
+1003,1004,115.64,21.18,8,Europe,3-Jan,Apr,No
+1004,1005,119.88,21.42,13,Asia/Pacific,3-Jan,Sep,Yes
+1005,1006,106.54,21.42,14,Asia/Pacific,3-Jan,Feb,YES
+1006,1007,112.0,21.27,9,Americas,3-Jan,Jan,Yes
+1007,1008,119.54,13.69,13,Asia/Pacific,5-Mar,Oct,Yes
+1008,1009,112.16,13.69,9,Europe,5-Mar,Jan,Yes
+1009,1010,131.55,21.14,9,Americas,3-Jan,Jan,Yes
+1010,1011,106.9,15.81,14,Middle East/Africa,3-Jan,Feb,Yes
+1011,1012,107.66,16.69,5,Americas,3-Jan,Mar,No
+1012,1013,110.25,19.2,8,Middle East/Africa,3-Jan,Jul,Yes
+1013,1014,113.96,15.7,6,Americas,3-Jan,Nov,Yes
+1014,1015,122.05,15.92,14,Europe,5-Mar,Feb,No
+1015,1016,125.56,19.09,7,Asia/Pacific,5-Mar,Jul,Yes
+1016,1017,107.61,16.69,5,Middle East/Africa,5-Mar,Mar,No
+1017,1018,112.13,21.14,9,Middle East/Africa,5-Mar,Jan,No
+1018,1019,121.57,16.4,14,Asia/Pacific,5-Mar,Feb,Yes
+1019,1020,122.77,16.63,5,Middle East/Africa,5-Mar,Mar,No
+1020,1021,125.81,15.28,6,Middle East/Africa,3-Jan,Nov,No
+1021,1022,125.58,19.25,9,Asia/Pacific,5-Mar,Nov,Yes
+1022,1023,112.19,21.14,8,Europe,5-Mar,Jan,Yes
+1023,1024,122.48,16.69,6,Europe,5-Mar,Mar,Yes
+1024,1025,106.79,15.55,14,Asia/Pacific,5-Mar,Feb,No
+1025,1026,137.69,21.55,7,Asia/Pacific,10-May,Feb,No
+1026,1027,112.31,13.61,14,Asia/Pacific,10-May,Oct,Yes
+1027,1028,127.31,21.39,7,Asia/Pacific,5-Mar,May,No
+1028,1029,126.12,20.47,12,Europe,5-Mar,Jun,NO
+1029,1030,115.29,24.81,8,Americas,5-Mar,Apr,YES
+1030,1031,127.32,21.46,7,Europe,5-Mar,May,No
+1031,1032,131.96,15.63,14,Americas,10-May,Feb,No
+1032,1033,140.77,25.17,7,Middle East/Africa,10-May,Dec,No
+1033,1034,108.72,16.33,9,Europe,10-May,Aug,Yes
+1034,1035,112.13,20.94,9,Europe,10-May,Jan,Yes
+1035,1036,131.77,21.32,7,Asia/Pacific,3-Jan,May,Yes
+1036,1037,129.39,19.2,7,Middle East/Africa,3-Jan,Jul,No
+1037,1038,131.17,21.19,9,Asia/Pacific,3-Jan,Jan,Yes
+1038,1039,137.68,21.45,7,Americas,10-May,May,Yes
+1039,1040,126.8,21.45,5,Europe,3-Jan,Mar,No
+1040,1041,110.22,19.69,8,Europe,3-Jan,Jul,No
+1041,1042,107.75,16.87,5,Americas,3-Jan,Mar,Yes
+1042,1043,112.35,21.09,9,Americas,3-Jan,Jan,NO
+1043,1044,132.52,15.58,14,Americas,10-May,Feb,Yes
+1044,1045,110.06,19.76,8,Middle East/Africa,10-May,Jul,Yes
+1045,1046,131.35,20.89,9,Asia/Pacific,3-Jan,Jan,No
+1046,1047,126.56,16.52,9,Americas,3-Jan,Aug,No
+1047,1048,106.61,16.36,14,Europe,3-Jan,Feb,No
+1048,1049,129.32,19.13,7,Americas,3-Jan,Jul,Yes
+1049,1050,112.37,21.16,13,Europe,3-Jan,Sep,No
+1050,1051,130.25,24.78,8,Middle East/Africa,5-Mar,Apr,Yes
+1051,1052,121.82,16.4,8,Middle East/Africa,5-Mar,Aug,Yes
+1052,1053,119.24,13.57,13,Asia/Pacific,5-Mar,Oct,Yes
+1053,1054,126.69,20.01,11,Americas,5-Mar,Jun,No
+1054,1055,129.82,20.29,7,Middle East/Africa,3-Jan,Jul,Yes
+1055,1056,122.65,16.46,9,Americas,5-Mar,Aug,Yes
+1056,1057,107.47,16.75,9,Asia/Pacific,5-Mar,Aug,Yes
+1057,1058,106.88,16.37,9,Asia/Pacific,5-Mar,Aug,Yes
+1058,1059,131.5,21.4,7,Europe,3-Jan,May,No
+1059,1060,111.9,21.1,9,Americas,3-Jan,Jan,Yes
+1060,1061,131.89,21.13,14,Middle East/Africa,3-Jan,Sep,No
+1061,1062,131.41,21.03,9,Americas,3-Jan,Jan,No
+1062,1063,126.43,15.86,14,Middle East/Africa,3-Jan,Feb,No
+1063,1064,107.73,16.86,5,Middle East/Africa,3-Jan,Mar,Yes
+1064,1065,141.06,25.04,7,Asia/Pacific,10-May,Mar,No
+1065,1066,106.63,15.62,14,Europe,10-May,Mar,Yes
+1066,1067,129.96,15.62,13,Middle East/Africa,10-May,Mar,No
+1067,1068,131.22,21.12,9,Asia/Pacific,3-Jan,Jan,Yes
+1068,1069,117.43,19.6,7,Americas,3-Jan,Jul,No
+1069,1070,106.65,16.19,14,Europe,3-Jan,Feb,Yes
+1070,1071,134.92,25.11,8,Europe,3-Jan,Apr,No
+1071,1072,106.7,15.82,14,Americas,3-Jan,Feb,Yes
+1072,1073,126.91,17.28,9,Europe,3-Jan,Aug,No
+1073,1074,115.33,24.74,8,Europe,3-Jan,Apr,Yes
+1074,1075,121.67,16.11,14,Americas,5-Mar,Apr,Yes
+1075,1076,122.49,16.11,8,Middle East/Africa,5-Mar,Aug,No
+1076,1077,129.75,13.58,13,Europe,10-May,Oct,Yes
+1077,1078,119.93,21.3,7,Middle East/Africa,10-May,May,YES
+1078,1079,110.03,19.06,7,Americas,10-May,Jul,No
+1079,1080,127.48,21.44,7,Americas,5-Mar,May,No
+1080,1081,119.35,13.51,13,Middle East/Africa,5-Mar,Oct,No
+1081,1082,132.05,16.16,14,Middle East/Africa,10-May,Feb,YES
+1082,1083,112.03,21.17,9,Asia/Pacific,10-May,Jan,No
+1083,1084,135.6,19.37,7,Europe,10-May,Jul,No
+1084,1085,121.08,15.93,5,Middle East/Africa,5-Mar,Nov,Yes
+1085,1086,106.8,15.96,14,Europe,5-Mar,Feb,Yes
+1086,1087,135.85,15.96,7,Asia/Pacific,10-May,Jul,Yes
+1087,1088,127.23,21.21,7,Americas,5-Mar,May,Yes
+1088,1089,130.14,13.45,14,Middle East/Africa,10-May,Oct,No
+1089,1090,127.07,16.81,5,Asia/Pacific,3-Jan,Mar,No
+1090,1091,129.79,13.78,13,Europe,10-May,Oct,Yes
+1091,1092,126.34,16.02,14,Middle East/Africa,3-Jan,Feb,No
+1092,1093,107.8,16.93,5,Asia/Pacific,3-Jan,Mar,Yes
+1093,1094,131.31,21.23,9,Americas,3-Jan,Mar,No
+1094,1095,130.99,24.9,8,Europe,5-Mar,Dec,No
+1095,1096,106.6,15.54,14,Europe,5-Mar,Feb,No
+1096,1097,130.05,20.0,11,Europe,3-Jan,Feb,YES
+1097,1098,127.33,21.31,7,Europe,5-Mar,May,No
+1098,1099,137.99,21.34,7,Asia/Pacific,10-May,May,No
+1099,1100,106.86,16.08,9,Middle East/Africa,10-May,Aug,No
+1100,1101,112.11,16.08,7,Europe,10-May,May,Yes
+1101,1102,137.74,21.4,14,Middle East/Africa,10-May,Sep,No
+1102,1103,121.78,17.05,9,Asia/Pacific,5-Mar,Aug,Yes
+1103,1104,121.69,17.05,9,Asia/Pacific,5-Mar,Aug,No
+1104,1105,123.46,24.66,7,Americas,5-Mar,Aug,Yes
+1105,1106,122.98,16.82,9,Americas,5-Mar,Aug,Yes
+1106,1107,111.92,20.99,9,Europe,5-Mar,Jan,No
+1107,1108,135.46,19.09,7,Americas,10-May,Jul,Yes
+1108,1109,119.97,21.15,14,Europe,10-May,Sep,No
+1109,1110,107.78,16.95,6,Americas,10-May,Mar,Yes
+1110,1111,106.62,15.86,14,Asia/Pacific,10-May,Mar,Yes
+1111,1112,112.24,21.29,7,Middle East/Africa,10-May,May,Yes
+1112,1113,132.5,16.38,9,Americas,10-May,Aug,Yes
+1113,1114,112.04,13.65,13,Middle East/Africa,10-May,Oct,Yes
+1114,1115,130.32,20.0,8,Europe,3-Jan,Jul,No
+1115,1116,112.26,21.61,7,Asia/Pacific,3-Jan,May,Yes
+1116,1117,106.51,15.61,14,Europe,3-Jan,Feb,NO
+1117,1118,106.66,15.85,14,Europe,3-Jan,Feb,Yes
+1118,1119,106.65,16.12,14,Europe,3-Jan,Feb,Yes
+1119,1120,132.54,16.7,9,Middle East/Africa,10-May,Feb,Yes
+1120,1121,113.77,15.38,6,Europe,10-May,Nov,Yes
+1121,1122,107.64,17.0,5,Middle East/Africa,10-May,Mar,NO
+1122,1123,121.98,15.33,6,Middle East/Africa,5-Mar,Nov,Yes
+1123,1124,112.03,15.33,9,Asia/Pacific,5-Mar,Jan,No
+1124,1125,127.05,16.77,5,Americas,3-Jan,Mar,No
+1125,1126,127.27,21.53,7,Europe,5-Mar,May,YES
+1126,1127,112.04,21.06,9,Europe,5-Mar,May,Yes
+1127,1128,137.86,21.06,14,Europe,10-May,Sep,No
+1128,1129,137.71,21.28,7,Americas,10-May,May,Yes
+1129,1130,115.63,21.28,8,Americas,10-May,Apr,No
+1130,1131,119.37,13.58,13,Middle East/Africa,5-Mar,Oct,No
+1131,1132,126.09,16.05,15,Middle East/Africa,3-Jan,Feb,Yes
+1132,1133,131.98,16.05,13,Middle East/Africa,3-Jan,Sep,YES
+1133,1134,111.95,21.1,9,Asia/Pacific,3-Jan,Jan,NO
+1134,1135,122.42,21.1,9,Middle East/Africa,5-Mar,Aug,YES
+1135,1136,127.26,21.15,14,Europe,5-Mar,Sep,No
+1136,1137,119.57,13.39,13,Americas,5-Mar,Oct,YES
+1137,1138,126.42,20.18,12,Asia/Pacific,5-Mar,Jun,Yes
+1138,1139,127.35,21.24,13,Asia/Pacific,5-Mar,Sep,NO
+1139,1140,112.32,21.67,14,Americas,5-Mar,Sep,Yes
+1140,1141,122.04,18.28,9,Middle East/Africa,5-Mar,Aug,Yes
+1141,1142,112.19,13.56,13,Europe,5-Mar,Oct,No
+1142,1143,117.74,20.8,7,Asia/Pacific,5-Mar,Jul,No
+1143,1144,115.11,24.91,9,Americas,5-Mar,Apr,No
+1144,1145,127.37,21.41,7,Europe,5-Mar,May,Yes
+1145,1146,130.54,24.27,8,Middle East/Africa,5-Mar,Apr,Yes
+1146,1147,109.15,16.16,10,Europe,5-Mar,Aug,No
+1147,1148,126.37,20.11,11,Europe,5-Mar,Jun,YES
+1148,1149,133.04,16.12,6,Europe,10-May,Nov,Yes
+1149,1150,107.63,16.65,5,Americas,10-May,Mar,Yes
+1150,1151,137.71,21.27,14,Asia/Pacific,10-May,Sep,Yes
+1151,1152,106.65,16.96,8,Americas,10-May,Sep,No
+1152,1153,129.89,13.39,14,Americas,10-May,Oct,NO
+1153,1154,122.11,16.0,10,Middle East/Africa,5-Mar,Aug,Yes
+1154,1155,122.89,16.0,9,Europe,5-Mar,Aug,Yes
+1155,1156,130.6,20.32,11,Asia/Pacific,3-Jan,Jun,No
+1156,1157,119.1,20.06,12,Asia/Pacific,3-Jan,Jun,NO
+1157,1158,131.56,21.06,13,Europe,3-Jan,Sep,NO
+1158,1159,131.31,21.1,9,Middle East/Africa,3-Jan,Jan,No
+1159,1160,132.25,15.56,14,Europe,10-May,Jan,NO
+1160,1161,132.14,16.21,14,Asia/Pacific,10-May,Jan,Yes
+1161,1162,112.24,13.66,13,Europe,10-May,Oct,Yes
+1162,1163,121.49,15.85,14,Americas,5-Mar,Feb,No
+1163,1164,141.05,25.25,7,Europe,10-May,Dec,Yes
+1164,1165,133.37,16.59,5,Asia/Pacific,10-May,Mar,YES
+1165,1166,132.35,16.02,14,Europe,10-May,Feb,No
+1166,1167,115.69,24.18,8,Asia/Pacific,10-May,Apr,No
+1167,1168,131.66,21.42,7,Asia/Pacific,3-Jan,May,Yes
+1168,1169,135.89,18.97,8,Asia/Pacific,10-May,Jul,No
+1169,1170,136.35,18.97,9,Middle East/Africa,10-May,Jul,No
+1170,1171,115.29,16.74,5,Asia/Pacific,10-May,Mar,YES
+1171,1172,137.58,21.26,14,Americas,10-May,Mar,Yes
+1172,1173,126.95,21.16,9,Europe,5-Mar,Jan,Yes
+1173,1174,106.57,15.97,14,Asia/Pacific,5-Mar,Feb,Yes
+1174,1175,115.27,15.97,8,Europe,5-Mar,Apr,No
+1175,1176,121.89,16.51,9,Middle East/Africa,5-Mar,Aug,No
+1176,1177,133.14,16.88,5,Middle East/Africa,10-May,Mar,No
+1177,1178,106.92,15.76,14,Europe,10-May,Feb,No
+1178,1179,131.64,16.04,6,Asia/Pacific,10-May,Nov,Yes
+1179,1180,107.7,16.8,5,Americas,10-May,Mar,Yes
+1180,1181,125.06,19.33,8,Europe,5-Mar,Jul,Yes
+1181,1182,131.25,21.07,9,Middle East/Africa,3-Jan,Jan,Yes
+1182,1183,121.76,15.41,5,Asia/Pacific,5-Mar,Nov,No
+1183,1184,125.86,16.06,14,Middle East/Africa,3-Jan,Feb,No
+1184,1185,133.12,16.84,5,Europe,10-May,Mar,No
+1185,1186,127.17,21.47,13,Europe,5-Mar,Sep,Yes
+1186,1187,115.45,24.95,9,Asia/Pacific,5-Mar,Apr,No
+1187,1188,107.6,16.71,5,Europe,5-Mar,Mar,Yes
+1188,1189,111.95,13.49,13,Middle East/Africa,5-Mar,Oct,Yes
+1189,1190,111.91,13.56,13,Europe,5-Mar,Oct,No
+1190,1191,111.92,21.16,9,Americas,5-Mar,Jan,No
+1191,1192,129.92,21.16,13,Middle East/Africa,10-May,Oct,No
+1192,1193,126.19,20.42,11,Middle East/Africa,5-Mar,Jun,Yes
+1193,1194,112.11,21.08,9,Asia/Pacific,5-Mar,Jan,YES
+1194,1195,106.58,15.86,14,Europe,5-Mar,Feb,Yes
+1195,1196,137.83,21.35,14,Asia/Pacific,10-May,Sep,No
+1196,1197,112.11,21.35,8,Asia/Pacific,10-May,Jan,No
+1197,1198,121.64,15.81,7,Europe,5-Mar,Nov,Yes
+1198,1199,123.36,25.14,9,Asia/Pacific,5-Mar,Apr,Yes
+1199,1200,131.45,21.09,9,Asia/Pacific,3-Jan,Jan,NO
+1200,1201,116.54,24.67,8,Europe,3-Jan,Apr,Yes
+1201,1202,132.45,16.21,14,Americas,10-May,Feb,Yes
+1202,1203,119.71,21.16,13,Middle East/Africa,10-May,Sep,Yes
+1203,1204,107.84,21.16,5,Americas,10-May,Mar,YES
+1204,1205,132.34,21.16,6,Middle East/Africa,10-May,Nov,No
+1205,1206,127.65,16.62,9,Americas,3-Jan,Nov,Yes
+1206,1207,130.26,20.14,11,Americas,3-Jan,Nov,No
+1207,1208,127.53,21.3,7,Americas,5-Mar,May,Yes
+1208,1209,131.41,21.26,9,Asia/Pacific,3-Jan,Jan,Yes
+1209,1210,119.94,21.48,7,Europe,3-Jan,May,No
+1210,1211,138.06,21.18,13,Europe,10-May,Sep,No
+1211,1212,131.27,19.98,11,Europe,3-Jan,Jun,YES
+1212,1213,129.78,13.52,13,Middle East/Africa,10-May,Oct,No
+1213,1214,114.24,15.36,6,Middle East/Africa,10-May,Oct,No
+1214,1215,108.03,16.1,8,Asia/Pacific,10-May,Aug,No
+1215,1216,123.69,24.81,7,Middle East/Africa,10-May,Dec,Yes
+1216,1217,131.82,21.37,14,Europe,3-Jan,Sep,Yes
+1217,1218,132.24,19.18,10,Americas,10-May,Aug,Yes
+1218,1219,111.97,21.12,9,Europe,10-May,Jan,Yes
+1219,1220,107.67,16.84,5,Americas,10-May,Mar,No
+1220,1221,121.78,16.21,9,Middle East/Africa,5-Mar,Aug,No
+1221,1222,106.77,15.89,14,Middle East/Africa,5-Mar,Feb,Yes
+1222,1223,132.99,16.73,9,Middle East/Africa,10-May,Aug,No
+1223,1224,125.37,20.22,8,Europe,5-Mar,Jul,Yes
+1224,1225,116.21,26.16,8,Middle East/Africa,5-Mar,Apr,Yes
+1225,1226,112.06,21.19,9,Middle East/Africa,5-Mar,Jan,No
+1226,1227,129.91,13.61,13,Europe,10-May,Oct,No
+1227,1228,111.91,21.23,9,Europe,10-May,Jan,No
+1228,1229,116.47,21.23,8,Middle East/Africa,10-May,Apr,Yes
+1229,1230,131.17,21.23,9,Middle East/Africa,3-Jan,Jan,Yes
+1230,1231,129.8,13.58,13,Europe,10-May,Oct,No
+1231,1232,134.05,18.0,9,Europe,10-May,Aug,Yes
+1232,1233,115.29,24.93,8,Middle East/Africa,10-May,Apr,Yes
+1233,1234,125.5,19.14,8,Asia/Pacific,5-Mar,Jul,Yes
+1234,1235,123.01,25.26,8,Americas,5-Mar,Apr,No
+1235,1236,121.06,15.06,6,Asia/Pacific,5-Mar,Nov,No
+1236,1237,130.56,26.18,7,Europe,5-Mar,Dec,No
+1237,1238,112.09,20.96,9,Americas,5-Mar,Jan,No
+1238,1239,112.12,13.51,13,Europe,5-Mar,Oct,Yes
+1239,1240,130.01,24.97,9,Americas,5-Mar,Apr,Yes
+1240,1241,131.14,24.97,9,Europe,3-Jan,Jan,No
+1241,1242,126.01,15.97,14,Americas,3-Jan,Jan,Yes
+1242,1243,111.85,21.22,9,Asia/Pacific,3-Jan,Jan,No
+1243,1244,132.51,16.23,9,Middle East/Africa,10-May,Aug,No
+1244,1245,131.57,21.21,9,Americas,3-Jan,Aug,No
+1245,1246,135.85,18.99,7,Middle East/Africa,10-May,Aug,No
