@@ -1,0 +1,8 @@
+pandas
+ydata_profiling
+numpy
+matplotlib
+seaborn
+geopandas
+folium
+branca
