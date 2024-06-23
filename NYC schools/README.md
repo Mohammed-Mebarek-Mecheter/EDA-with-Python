@@ -25,4 +25,8 @@ The dataset contains information on SAT performance for New York City public sch
     - Calculated the standard deviation of the total SAT scores for each borough.
     - Identified the borough with the largest standard deviation and saved the results in a DataFrame named `largest_std_dev`.
 
+## Author
 
+- Name: [Mohammed Mebarek Mecheter](https://www.linkedin.com/in/mohammed-mecheter/)
+- Email: mohammedmecheter@gmail.com
+- Portfolio: [Mebarek](https://mebarek.pages.dev/)

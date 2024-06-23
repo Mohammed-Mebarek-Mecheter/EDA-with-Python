@@ -27,3 +27,9 @@ The analysis yields valuable insights into bike usage patterns, user behaviors, 
 
 ## Conclusion
 The analysis demonstrates the effectiveness of predictive analytics in uncovering actionable insights for optimizing bike share operations. Recommendations are provided for addressing the identified business problem, including optimizing bike redistribution, enhancing user engagement, infrastructure planning, seasonal demand management, and continuous monitoring and evaluation.
+
+## Author
+
+- Name: [Mohammed Mebarek Mecheter](https://www.linkedin.com/in/mohammed-mecheter/)
+- Email: mohammedmecheter@gmail.com
+- Portfolio: [Mebarek](https://mebarek.pages.dev/)

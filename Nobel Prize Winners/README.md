@@ -48,7 +48,7 @@ To replicate the analysis:
 
 ## Author
 
-- Name: [Mohammed Mebarek Mecheter](https://www.linkedin.com/in/mohammed-mebarek-mecheter/)
+- Name: [Mohammed Mebarek Mecheter](https://www.linkedin.com/in/mohammed-mecheter/)
 - Email: mohammedmecheter@gmail.com
 - Portfolio: [Mebarek](https://mebarek.pages.dev/)
 
